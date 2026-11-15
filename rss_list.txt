@@ -1,0 +1,26 @@
+# 20 Curated RSS Feeds for High-Impression Content Syndication
+# Target: High search volume / Low-medium competition niches (Gadgets, Tech Hardware, AI, & Dev Tools)
+# Kategori 1: Spesifikasi & Perbandingan Smartphone / Gadget
+https://www.gsmarena.com/rss-news-reviews.php
+https://www.androidauthority.com/feed/
+https://9to5mac.com/feed/
+https://www.phonearena.com/feed
+https://pocketnow.com/feed/
+# Kategori 2: Teknologi Umum & Tren Perangkat Keras (Hardware)
+https://www.theverge.com/rss/index.xml
+https://techcrunch.com/feed/
+https://www.engadget.com/rss.xml
+https://www.tomsguide.com/rss.xml
+https://wccftech.com/feed/
+# Kategori 3: Inovasi, AI, & Perkembangan Software
+https://venturebeat.com/feed/
+https://www.zdnet.com/news/rss.xml
+https://mashable.com/feed/
+https://gizmodo.com/feed
+https://www.digitaltrends.com/feed/
+# Kategori 4: Pemrograman, Tools, & Perkembangan Web
+https://news.ycombinator.com/rss
+https://www.smashingmagazine.com/feed/
+https://dev.to/feed
+https://www.bleepingcomputer.com/feed/
+https://www.infoworld.com/index.rss
