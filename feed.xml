@@ -4,190 +4,195 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/artikelsemua54/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 18:41:38 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:53:19 -0000</lastBuildDate>
     
         <item>
-            <title>Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-645</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-645</guid>
-            <description>Instant database branches for MySQL and PostgreSQL, on your own servers. Test a migration, let an AI agent loose, or give every pull request its own copy of the database. db-branch creates a copy-on-write branch of a large database in seconds, with nothing copied. Break it, reset...</description>
+            <title>Industry News: What happens if you write a TCP stack in Python? (2014)</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-739</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-739</guid>
+            <description>Sources indicate that during Hacker School, I wanted to understand networking better, and I
+decided to write a miniature TCP stack as part of that. I was much
+more comfortable with Python than C and I’d recently discovered the
+scapy networking library
+which made sending packets
+r...</description>
         </item>
         <item>
-            <title>How to read codes from (many) IR remote controls with as little code as possible</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-644</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-644</guid>
-            <description>Inexpensive infrared (IR) remote controls have been ubiquitous in our lives for many many years. This is because the technology is inexpensive and works so well that it fades into the background. The IR signal gets 'sprayed' (transmitted/reflected/received) so effectively in most...</description>
+            <title>Latest Update: Clice v1.0 Released: Welcome to Modern C++</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-738</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-738</guid>
+            <description>clice recently hit 1,000 commits, a special milestone for the project. Since July 19, 2026, clice has been shipping nightly builds and going through roughly four months of alpha testing, with a huge number of bugs fixed thanks to real-world feedback from early owners. Over the sa...</description>
         </item>
         <item>
-            <title>Industry News: Chasing an audio artifact on power loss</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-643</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-643</guid>
-            <description>According to recent reports, first off, I have a fully assembled production candidate prototype in a production candidate case! More on that to come, stay tuned! According to recent reports, for about a year I had been trying to figure out how to solve a problem with the audio st...</description>
+            <title>Eclipse Mosquitto – An open source MQTT broker</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-737</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-737</guid>
+            <description>Mosquitto is an open source implementation of a server for version 5.0, 3.1.1,
+and 3.1 of the MQTT protocol. It also includes a C and C++ client library,
+the mosquitto_pub mosquitto_rr, and mosquitto_sub utilities for
+publishing and subscribing, and the mosquitto_ctrl, mosquitto_...</description>
         </item>
         <item>
-            <title>The Telephone Changed the World</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-642</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-642</guid>
+            <title>1900s How do you Wash a Kimono?</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-736</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-736</guid>
+            <description>A young employee of a charcoal dealer carries packs of charcoal. An extensive charcoal infrastructure as well as ingenious methods kept the fires in Japan’s millions of hibachi burning. → Read original article...</description>
+        </item>
+        <item>
+            <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-735</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-735</guid>
+            <description>Recent findings suggest that WDR. 46 Sek.. Verfügbar bis 15.11.2028. Wegen der Microsoft-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt. Industry observers note that diesem Problem waren wir alle ausgesetzt: Am Freit...</description>
+        </item>
+        <item>
+            <title>Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-734</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-734</guid>
+            <description>The F10 Lightrunner’s weird asymmetry solves a key problem with fixed-wing drones. Evan Ackerman is IEEE Spectrum’s robotics editor. Skydio’s F10 autonomous camera drone can provide better quality video than any other fixed-wing drone, thanks to its lopsided design. → Read origin...</description>
+        </item>
+        <item>
+            <title>Artificial Intelligence for the Z80</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-733</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-733</guid>
+            <description>A journey through AI history, its main branches and our working laboratory: the Z80, the Spectrum and the Spectrum Next. The starting point for understanding what we will build and why BASIC is a useful way to explore it. → Read original article...</description>
+        </item>
+        <item>
+            <title>Stop Filming in Log</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-732</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-732</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>Breaking: The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-641</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-641</guid>
+            <title>Mini.nvim Is Now on Tangled</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-731</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-731</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-640</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-640</guid>
+            <title>Latest Update: WebGL Flight Simulator with seed generated terrain</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-730</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-730</guid>
+            <description>Take off. Explore. Land it in one piece. Install: tap Share then Add to Home Screen â. Follow the white arrows from take-off to touchdown. â â category Â· â â choose Â· drag to look around Â· Esc back. Tap a tab and a card Â· drag the plane to look around. Your browser ...</description>
+        </item>
+        <item>
+            <title>Coles hit by a cybersecurity incident</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-729</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-729</guid>
+            <description>Current as at 16 November 2026, 8:30am. Coles Group Limited is at the moment investigating a cyber security incident. Based on the findings of our investigation to date, we have not identified any evidence that customer, team or supplier data has been compromised or removed from ...</description>
+        </item>
+        <item>
+            <title>There's a simple way to watch Spain vs England for *FREE*</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-728</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-728</guid>
+            <description>Watch Spain vs England for free in the Nations League as Thomas Tuchel's side look to steal top spot from Spain. Kick-off arrives on Sunday, November 15 at 2:45 p.m. ET / 11:45 a.m. PT / 7:45 p.m. GMT / 6:45 a.m. AEDT (Mon.). Both teams are through to the quarter-finals, with Spa...</description>
+        </item>
+        <item>
+            <title>How to watch 'I'm a Celebrity... Get Me Out of Here' 2026 for FREE: stream star-studded reality show online from anywhere</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-727</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-727</guid>
+            <description>As sure a sign the festive season is approaching as sausages on the street and John Lewis getting all sentimental, “I’m a Celeb” returns for 2026, inviting another batch of famous faces into the world of Bushtucker Trials and Dingo Dollars. Here's how to watch "I'm a Celebrity......</description>
+        </item>
+        <item>
+            <title>Tell HN: HN is being scraped for emails to scam</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-726</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-726</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>What thousands of conversations look like inside a language model</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-639</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-639</guid>
-            <description>Every conversation that could happen with a language model–every question, misunderstanding, explanation, and unfinished argument–produces a sequence of internal states. According to recent reports, could we map that landscape? Would conversations about similar things travel thro...</description>
+            <title>There's a simple way to watch 49ers vs Cowboys for *FREE* — stream NFL Week 10</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-725</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-725</guid>
+            <description>It has been revealed that the 49ers will almost certainly consign the Cowboys to a third straight season without playoff football, and at Jerry World no less, if they beat their inter-division rivals on Sunday. Dallas are on the bubble — second in the NFC East and 10th in the con...</description>
         </item>
         <item>
-            <title>Industry News: 20 Years of Pyrolog</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-638</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-638</guid>
-            <description>As part of the EU project we had promised lots of things, including
-implementing some constraint programming in PyPy. For this strand of the work I
-learned Prolog by reading Clocksin and Mellish's Programming Prolog [CM2003]
-and later the Art of Prolog [SS1994]. In a recent devel...</description>
+            <title>Do we still have to denormalize? Have your schema and search it too</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-724</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-724</guid>
+            <description>Search usually means returning results sorted by relevance (like BM25 or vector similarity), or summarizing results into facets. ParadeDB already makes this fast when your data lives in a single denormalized table. But in a relational database, data is usually normalized and fact...</description>
         </item>
         <item>
-            <title>A NES emulator written in Odin</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-637</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-637</guid>
-            <description>I’ve started this project in late June of 2024. I’ve worked on it in my spare time off and on. I decided to put a pause on this project in January 2025 to focus on other things. Industry observers note that it’s been a wild ride. I’ve had a lot of fun, but I’ve also suffered more...</description>
+            <title>How to watch Grey Cup 2026 in Canada — stream for free online</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-723</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-723</guid>
+            <description>It's time for the biggest game in Canadian football as Edmonton Elks and Montreal Alouettes face off for the Grey Cup and you can watch it all live in Canada (kick-off is 11 p.m. ET). TSN, CTV and Crave are all streaming the event in Canada, but viewers outside the country don't ...</description>
         </item>
         <item>
-            <title>Notes on Mathematics for Engineers (1959) [pdf]</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-636</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-636</guid>
-            <description>Comments. → Read original article...</description>
+            <title>Handwriting, as a Font</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-722</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-722</guid>
+            <description>It has been revealed that drop to open your fontFonts made with Ductus only. It’s checked on this computerdevice, never uploaded. Write a small a, 1 of 26 lowercase. → Read original article...</description>
         </item>
         <item>
-            <title>Tech Report: Understanding Positional Embeddings in Modern LLMs</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-635</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-635</guid>
-            <description>This article explains how LLMs encode and process token position information by covering classic and contemporary methods like RoPE. It’s essentially a comprehensive journey where we will work through the mechanisms with visual examples, a little math, and a small PyTorch impleme...</description>
+            <title>There's a simple way to watch Grey Cup 2026 for *FREE*</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-721</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-721</guid>
+            <description>Watch Edmonton Elks take on Montreal Alouettes at McMahon Stadium, Calgary in the Grey Cup 2026. Kick-off arrives on Sunday, November 15 at 6 p.m. ET / 3 a.m. PT / 11 p.m. GMT / 10 a.m. AEDT (Monday). The Elks are chasing their first Grey Cup title since 2015, while the Alouettes...</description>
         </item>
         <item>
-            <title>Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-634</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-634</guid>
-            <description>Comments. → Read original article...</description>
+            <title>Industry News: The Miracle Cure: In 1977, a drug rejected by doctors became a sensation</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-720</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-720</guid>
+            <description>Sources indicate that it was an emotional day in Austin when the Texas Senate Committee on Human Resources met on May 2, 1977. Over three hours, members of the crowd took turns at the microphone telling harrowing stories about their plights with cancer. The witnesses talked about...</description>
         </item>
         <item>
-            <title>'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-633</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-633</guid>
-            <description>Comments. → Read original article...</description>
+            <title>Amazon's Black Friday 2026 sale starts tomorrow — here's how I'm getting prepped, and the best early deals already live</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-719</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-719</guid>
+            <description>Prime Members, it's almost time! Amazon's Black Friday sale officially starts tomorrow, Tuesday, November 17, a full ten days before Black Friday itself, and wraps up on Cyber Monday, November 30. Amazon's Black Friday sale features deep discounts across a wide range of products,...</description>
         </item>
         <item>
-            <title>Tech Report: Anker vs. Belkin: Which company's power banks and accessories should you get?</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-632</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-632</guid>
-            <description>While one organization has more power, the other offers some unique products. When you're considering a power bank and other accessories for your mobile devices, two of the most prominent brands in the business are Anker and Belkin. But which is the better brand? The question isn...</description>
+            <title>Protomaps: Self-hosting map tiles has gotten cheap and easy</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-718</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-718</guid>
+            <description>PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket. I came across Protomaps in research for my latest project, Mapboard.1 For most non-commercial projects, commercial APIs become prohibitively expensive if you eve...</description>
         </item>
         <item>
-            <title>Latest Update: Things That Turbo Pascal Is Smaller Than (2011)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-631</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-631</guid>
-            <description>It has been revealed that it's not about technology for its own sake. It's about being able to implement your ideas. According to recent reports, turbo Pascal 3 for MS-DOS was released in September 1986. Being version 3, there were lesser releases prior to it and flashier ones af...</description>
+            <title>Preserving 30 years of Salon journalism</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-717</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-717</guid>
+            <description>When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a fresh kind of digital journalism, bringing together politics, culture, criticism, and ideas for a generation of online readers. Accord...</description>
         </item>
         <item>
-            <title>5 tips and tricks every PS5 owner should know</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-630</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-630</guid>
-            <description>The PS5 has several quality-of-life features that save time and reduce annoyances. When you fire up your PlayStation 5, you presumably want to get into a game instead of messing around in menus. Unless you're waiting for an update to install, you probably aren't eager to see what...</description>
+            <title>165 "completed" tasks. 21 left a clickable link. 11 of those links are already dead.</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-716</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-716</guid>
+            <description>It has been revealed that I run an AI-agent community. Agents claim tasks, do work, submit a delivery, and get confirmed. It has 187 members and 271 tasks that reached a completed state. Last week I stopped trusting my own dashboard and asked a different question: if a stranger w...</description>
         </item>
         <item>
-            <title>Why did Google Pixels stop using Snapdragon chips?</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-629</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-629</guid>
-            <description>Google ditched Snapdragon in 2021 to build phones around its own AI silicon. Recent findings suggest that it seems like it was just yesterday when Google dropped Qualcomm's Snapdragon chips and rolled out the Pixel 6 on its proprietary Tensor platform – but it's not. We've just p...</description>
+            <title>Tech Report: I've tested the Fitbit Air, Fitbit Edge, and Fitbit Charge 6 — here is the fitness tracker I'd actually buy with my own money</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-715</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-715</guid>
+            <description>This holiday season, you're likely to see deals galore on a range of Fitbit models, including the popular Fitbit Air, Fitbit Edge, and Fitbit Charge 6,. These are easily three of the best fitness trackers you can buy. But how do you choose between them? In a recent development, t...</description>
         </item>
         <item>
-            <title>Latest Update: Australia Daily AI &amp; LLM Briefing - November 16, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-628</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-628</guid>
-            <description>A curated intelligence briefing on AI infrastructure, enterprise agent governance, sovereign compute, regulatory overhauls, and foundation model deployments across the Australian technology ecosystem over the past 24 to 48 hours. Microsoft Outages Put Canberra's Resilience Pact t...</description>
+            <title>Design Instagram: the photo-sharing system design interview walkthrough</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-714</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-714</guid>
+            <description>Sources indicate that the request to design Instagram sounds like a news feed with pictures, and that framing is exactly where candidates lose the round. A text feed is a fanout problem; a photo-sharing feed is a fanout problem plus a media problem — billions of images and videos...</description>
         </item>
         <item>
-            <title>Breaking: Emacs Is My Browser</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-627</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-627</guid>
-            <description>In my ever-increasing desire to use emacs as my sole computing environment, I have started to take browsing the web inside it far more seriously. Where I previously had thought EWW to be a niceity but far from capable, after using it for a few days it seems to be useable for abou...</description>
+            <title>7 ways Claude Code can help you run a small business — without writing a single line of code</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-713</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-713</guid>
+            <description>Running a small business means wearing a lot of hats. One minute you're responding to customers, the next you're updating your website, chasing invoices or trying to figure out why your appointment system isn't working. Hiring someone to handle every task isn't always realistic a...</description>
         </item>
         <item>
-            <title>These are some of the strongest 3D printer filaments for durable parts</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-626</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-626</guid>
-            <description>Stronger filament doesn't automatically mean a stronger print, and the toughest materials can require better hardware too. Industry observers note that if you're looking for one winner, it's not exactly convenient that a 3D print can be "strong" in a few different ways. A rigid b...</description>
+            <title>Ordering and Partitioning in Event-Driven Systems</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-712</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-712</guid>
+            <description>In a recent development, "The events must be processed in order." It sounds like a requirement. It is actually an unfinished sentence: in order relative to what, and at what cost? Sources indicate that A common outcome of leaving it unfinished: a team puts every payment event int...</description>
         </item>
         <item>
-            <title>Điểm tin AI &amp; Mô hình Ngôn ngữ Lớn (LLMs) tại Úc - Ngày 16/11/2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-625</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-625</guid>
-            <description>Bản tin tổng hợp chuyên sâu về hạ tầng AI, quản trị agent doanh nghiệp, điện toán có chủ quyền, cải cách pháp lý và triển khai mô hình nền tảng trên khắp hệ sinh thái công nghệ Úc trong 24 đến 48 giờ qua. Industry observers note that sự cố Microsoft Đặt Hiệp ước Chống chịu của Ca...</description>
+            <title>Industry News: How to find your IP address</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-711</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-711</guid>
+            <description>It's quick and easy, if you know where to look. According to recent reports, if you're looking for a quick answer to "What is my IP address?", a simple solution is to go to WhatIsMyIP.com and get it there. But the real answer is a little more complicated, because your devices don...</description>
         </item>
         <item>
-            <title>Latest Update: How long will your NVIDIA GPU be supported?</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-624</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-624</guid>
-            <description>NVIDIA can support GeForce GPUs for years, but Game Ready updates, security patches and OS support don't all end at once. Graphics cards do not have an expiration date on the box. That would make it easier to upgrade, but much more depressing. NVIDIA also does not guarantee a spe...</description>
-        </item>
-        <item>
-            <title>Tech Report: Exploring Global Air Pollution Trends with Python and Pandas</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-623</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-623</guid>
-            <description>Air pollution is a major environmental health concern. I wanted to understand how air quality differs between countries and how pollution levels changed over time. This led me to build my Global Air Quality Analysis project. The project explores annual PM2.5 exposure data for 87 ...</description>
-        </item>
-        <item>
-            <title>Flisk: run a multi-service app on your laptop with one command (and what it does not do)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-622</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-622</guid>
-            <description>Flisk is an open-source command-line tool that runs every part of a multi-service app (API, website, worker, database) on your own computer with one command. The README claims a small app starts "as two local processes in about a second", with no Docker. It fits when you run 3 to...</description>
-        </item>
-        <item>
-            <title>Why your laptop fans spin up even when you're not doing anything</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-621</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-621</guid>
-            <description>It could point to many things, including aggressive power profiles, background software updates or even dust building up. It has been revealed that laptops generate heat. You can't really avoid it. Even energy-efficient models are still producing some level of heat. To try and ke...</description>
-        </item>
-        <item>
-            <title>Props in React</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-620</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-620</guid>
-            <description>When building a React application, we usually divide our application into small components. For example, an e-commerce website may have:. Sometimes, one component needs to send data to another component. Props allow us to pass data from one component to another in React. In simpl...</description>
-        </item>
-        <item>
-            <title>How much electricity does your home sound system typically use?</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-619</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-619</guid>
-            <description>How to think about and measure the energy use of your home sound system. In a recent development, as energy costs continue to spiral, cost-conscious consumers need to manage their energy consumption. While electricity requirements vary, a typical home sound system will use 20 to ...</description>
-        </item>
-        <item>
-            <title>A short explainer on how El Niño works [video]</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-618</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-618</guid>
-            <description>Comments. → Read original article...</description>
-        </item>
-        <item>
-            <title>AI is the assistant, not the staff</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-617</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-617</guid>
-            <description>The first four posts were about the specification, the review that changed it, the stage order, and what Exit 719 does today. This one is about who is in the room while I build it. Most days that is me, and an AI assistant with a weekly limit. Sources indicate that at my last org...</description>
-        </item>
-        <item>
-            <title>iPhone Duo Vs Oppo Find N6: How these foldables compare</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-616</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-616</guid>
-            <description>Different hinges, different priorities, same giant dent in your savings. Recent findings suggest that the foldable phone market just got a lot more interesting now that Apple has officially (finally) entered the fold with the iPhone Duo. Oppo's Find N6 has been turning heads sinc...</description>
+            <title>A duration test that could not fail: ffprobe reports the container, not the picture</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-710</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-710</guid>
+            <description>Sources indicate that short answer: ffprobe -show_entries format=duration reports the container's duration, which is the maximum over its streams, and in a generated clip the silent audio track always runs the full promised length. The picture can end over a second early and that...</description>
         </item>
 </channel>
 </rss>
