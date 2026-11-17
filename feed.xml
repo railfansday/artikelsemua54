@@ -4,191 +4,194 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/artikelsemua54/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 15:26:11 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:48:18 -0000</lastBuildDate>
     
         <item>
-            <title>Mayor Zohran Kwame Mamdani: We Are Disbanding the SRG</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-909</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-909</guid>
+            <title>Pentagon fails ninth straight audit despite progress in organizing finances</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1119</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1119</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-908</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-908</guid>
-            <description>Summer code change caused a Fall fail – frantic engineers had to patch the patch instead of rolling back. Microsoft has blamed last week's epic outage on a change it made in July that lurked in the network gateway servers until a surge in load and a drop in capacity triggered the...</description>
-        </item>
-        <item>
-            <title>Industry News: The Lasting Influence of John Berger</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-907</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-907</guid>
-            <description>Recent findings suggest that biographers do not advertise themselves as mediums. Still, the fantasy is there—that a book’s subject will rise from its pages, like some stranded ghost, to clap one hand on the writer’s shoulder and the other on the reader’s. It is a fantasy that imp...</description>
-        </item>
-        <item>
-            <title>The Opportunivore's Dilemma</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-906</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-906</guid>
-            <description>According to recent reports, the SUV hurtled down US 89 a few miles north of Yellowstone National Park, headlights blazing through wintry Montana twilight. Elk clattered across the pavement on their daily rounds between the Yellowstone River and the adjacent hills, a timeless cir...</description>
-        </item>
-        <item>
-            <title>Breaking: Exact Gradients Through a BRep Kernel</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-905</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-905</guid>
-            <description>Gradient-based design needs the derivative of an objective with respect to the parameters a designer edits, such as a hole radius or a fillet radius. In a boundary-representation (BRep) kernel those parameters pass through Boolean operations, filleting and tessellation, which mak...</description>
-        </item>
-        <item>
-            <title>Show HN: ThingStudio, Node-RED style programming for microcontrollers</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-904</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-904</guid>
-            <description>I've been a huge fan of flow programming since the early days of Node-RED. Equally, I've been keen on MicroPython since it came out, and in fact I backed the original Kickstarter way
-        back in 2013. So, I thought, why not combine the best of both worlds? ThingStudio is my a...</description>
-        </item>
-        <item>
-            <title>Apple needs your help to make health AI better</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-903</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-903</guid>
-            <description>Apple is launching an app to evaluate health AI, and the manufacturer needs your help to do it. Sources indicate that it's all a part of a upcoming research study, conducted in collaboration with clinical AI platform OpenEvidence, called the Apple Health AI Usage Study. The goal ...</description>
-        </item>
-        <item>
-            <title>Industry News: I haven't been this excited about a coffee maker all year: Lavazza’s new 'non-pod' pod espresso machine makes barista-level coffee in seconds with zero cleanup</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-902</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-902</guid>
-            <description>In a recent development, I'm Erin, and welcome to The Coffee Lab Episode 25, the series where we forget coffee snobbery. The Coffee Lab is all about making coffee fun. Join me as I help you kickstart your coffee journey! Here at The Coffee Lab, I'm always eager to get my hands on...</description>
-        </item>
-        <item>
-            <title>Industry News: Early Black Friday deal: Play 1000s of retro games with this $90 console</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-901</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-901</guid>
-            <description>Recent findings suggest that TL;DR: The Kinhank Super Console X2 Pro is on sale for $84.97 (reg. $159.99) during our early Black Friday sale. In a recent development, nostalgia seems to make us feel all warm and happy inside. It’s an escape to the past. If you’ve been looking for...</description>
-        </item>
-        <item>
-            <title>Industry News: It's always DNS, so why are we running our own?</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-900</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-900</guid>
-            <description>This will be a rollercoaster story on how we ended up replacing Route53 and running our own authoritative DNS server. According to recent reports, at some point, we decided we should be able to provide unlimited basins to our clients. Basins are a core namespace construct on S2 a...</description>
-        </item>
-        <item>
-            <title>Ditch the lunges, this exercise is the ultimate hack for building strength without weights, and you can try it as a beginner</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-899</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-899</guid>
-            <description>Build leg strength and boost mobility using this one hack from a personal trainer. → Read original article...</description>
-        </item>
-        <item>
-            <title>RedMagic 11S Pro review: Active liquid and fan cooling meets aggressive pricing</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-898</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-898</guid>
-            <description>The RedMagic 11S Pro isn’t trying to beat mainstream flagships. Instead, it wins over mobile gamers with active liquid-and-fan cooling, sharp AMOLED display, and 19+ hour battery life at an unbeatable $799 starting price. But it does come with its shortcomings. Active thermal con...</description>
-        </item>
-        <item>
-            <title>Coffeehouses and the Rise of Science [pdf]</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-897</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-897</guid>
+            <title>Latest Update: Strengthening the fight against online child sexual abuse</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1118</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1118</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>Tech Report: Zelda Switch 2 restock: Live restock updates at Walmart, Target, and Best Buy (Nov. 16)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-896</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-896</guid>
-            <description>If your current morning ritual involves violently hitting refresh on a dozen retail tabs, you already know the vibe: finding the Nintendo Switch 2: The Legend of Zelda 40th Anniversary Edition is turning into an Olympic sport. Industry observers note that between automated bot ar...</description>
+            <title>Industry News: Jolt – Clojure that speaks C</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1117</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1117</guid>
+            <description>Bind any C shared library: declare it, wrap functions with defcfn, call them with Clojure values. The db library reaches SQLite and Postgres this way; http-client binds OpenSSL and zlib. In a recent development, jolt build ahead-of-time compiles a project (runtime, standard libra...</description>
         </item>
         <item>
-            <title>Pokémon TCG 30th Celebration Ultra-Premium Collections: Live restock updates at Amazon, Walmart, and Target (Nov. 16)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-895</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-895</guid>
-            <description>It has been revealed that the Pokémon TCG's 30th Celebration Ultra-Premium Collections have finally arrived, but getting hold of either the Espeon (Day) or Umbreon (Night) edition at a reasonable price has been proving difficult, even with latest listings regularly going live acr...</description>
+            <title>Tech Report: Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1116</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1116</guid>
+            <description>According to recent reports, new Regency says the director can’t reclaim rights in “Heat” because he wrote it for his own company. Mann says he wrote the early drafts on his own, not as his loan-out’s employee. The most famous scene in Michael Mann’s Heat is a six-minute cup of c...</description>
         </item>
         <item>
-            <title>When is 'Ebenezer' coming to streaming? Here's our best guess for when you can watch Johnny Depp's upcoming Christmas movie at home</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-894</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-894</guid>
-            <description>In a recent development, johnny Depp is back on the substantial screen for the first time in years, and he’s playing one of literature’s most famous misers. “Ebenezer: A Christmas Carol,” a darker, gothic reimagining of the Charles Dickens classic from director Ti West, began hau...</description>
+            <title>Aristotle Expands into Rust</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1115</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1115</guid>
+            <description>We’re excited to announce Aristotle’s expansion into Rust, one of the fastest-growing programming languages for high-stakes software. The expansion builds on Aristotle’s support of C and Verilog and marks a major advancement in our mission to verify all code. Instead of relying o...</description>
         </item>
         <item>
-            <title>The Acer Predator Atlas 7 is my favorite handheld of 2026 and it cures the memory pricing crisis in style</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-893</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-893</guid>
-            <description>The Acer Predator Atlas 7 sticks a middle finger up to RAMageddon and strikes the right balance of price, raw performance and efficient software — overcoming a few ergonomic quirks and a smaller battery to become my favorite handheld of 2026. Exceptional Intel Arc G3 performance....</description>
+            <title>Breaking: How to Intercept HTTP/3 Traffic: QUIC and Qpack</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1114</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1114</guid>
+            <description>According to recent reports, short answer: HTTP/3 does not go through an HTTP proxy, because it runs over QUIC, and QUIC runs over UDP. Most HTTP proxies, such as Burp Suite, are built on HTTP over TCP, so they never see it. To intercept HTTP/3 you need a proxy that can relay UDP...</description>
         </item>
         <item>
-            <title>Newly introduced leak shows Galaxy S27 Pro and Ultra camera design with three lenses</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-892</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-892</guid>
-            <description>Industry observers note that affiliate links on Android Authority may earn us a commission. Learn more. Samsung’s Galaxy S27 series is still a few months away, but the leaks are gaining momentum. Just days after a batch of Galaxy S27 Plus, S27 Pro, and S27 Ultra dummy units showe...</description>
+            <title>My Quest to push native Three.js quality match AAA Game Engines</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1113</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1113</guid>
+            <description>Part 2 picked a pipeline for indoor scenes: lightmaps, light probes and reflection probes, with SSR, SSGI and ambient occlusion on top. Here I measure Three.js against it one stage at a time: what the games require, what Three.js has, and what is missing. According to recent repo...</description>
         </item>
         <item>
-            <title>Dont wait until Black Friday — the Nintendo Switch 2 is on sale for $30 off right now</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-891</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-891</guid>
-            <description>Save $30: The Nintendo Switch 2 is available for $469 at Woot. This deal is live through Nov. 30 or until sold out. The console rarely goes on sale and is usually listed for $499, making this a 6% discount. According to recent reports, struggling to get your hands on the Zelda ed...</description>
+            <title>United Airlines experiencing a widespread system outage, airline notes</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1112</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1112</guid>
+            <description>A widespread, yet short-lived, system outage at United Airlines on Monday delayed some outbound flights at US airports, the airline told CNN in a statement, coming on the heels of a rare FAA ground stop that caused massive disruption. The outage lasted about 30 minutes, with fewe...</description>
         </item>
         <item>
-            <title>Breaking: PS5 and PS5 Pro Black Friday deals 2026: What to realistically expect</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-890</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-890</guid>
-            <description>According to recent reports, TL;DR: Standalone PS5 Slim and PS5 Pro discounts look unlikely for Black Friday 2026. Expect Sony's real savings to center on game-bundled consoles, DualSense controllers, and PlayStation Store deals. If you are holding out for Black Friday on Nov. 27...</description>
+            <title>Rust changed me as a developer</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1111</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1111</guid>
+            <description>The programming language you use affects how you think as a software developer
+1. That may seem surprising to you; you may have picked up JavaScript
+pretty promptly knowing Python, and it didn't really affect how you think or
+develop. That's because those languages are pretty sim...</description>
         </item>
         <item>
-            <title>Apple is betting on the App Store to give its smart glasses an edge over Meta and Google</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-889</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-889</guid>
-            <description>According to recent reports, affiliate links on Android Authority may earn us a commission. Learn more. Industry observers note that apple’s $3,499 Vision Pro was supposed to usher in a newly introduced era of personal computing. Instead, Meta found success selling a much simpler...</description>
+            <title>Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1110</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1110</guid>
+            <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>Tech Report: Moon phase today: What the Moon will look like on November 16, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-888</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-888</guid>
-            <description>We're almost at the First Quarter Moon, which is when we'll see half of the lunar surface illuminated. From here, the Moon will continue to grow until we reach the Full Moon again. As of Monday, Nov. 16, the NASA's Daily Moon Guide tracker tells us the Moon is in the Waxing Cresc...</description>
+            <title>Tech Report: Upcoming open source C4 Diagram tool</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1109</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1109</guid>
+            <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>Tech Report: Google Messages could finally let you listen to voice messages while you browse other chats</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-887</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-887</guid>
-            <description>Affiliate links on Android Authority may earn us a commission. Learn more. Sources indicate that we’ve seen Google work on several useful updates for the Google Messages app over the past few months. While some features have now started rolling out, the company is developing seve...</description>
+            <title>Robert Pattinson is 007 — here’s what we know about the next era of James Bond</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1108</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1108</guid>
+            <description>According to recent reports, robert Pattinson is James Bond. Today (Nov. 16), Amazon MGM Studios confirmed it’s found its new 007 in the form of the British actor most known for his roles as Edward Cullen in “Twilight,” Bruce Wayne in Matt Reeves’ “The Batman” series, and for sho...</description>
         </item>
         <item>
-            <title>The Pokémon TCG 30th Anniversary Ultra-Premium Collection is live on Amazon: Buy at market price</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-886</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-886</guid>
-            <description>TL;DR: The Pokémon TCG 30th Celebration Ultra-Premium Collection Night (Umbreon) is available to buy for $399.99 on Amazon. That's close to the market price. We're making a substantial effort to track stock for the Pokémon TCG 30th Celebration Ultra-Premium Collections, but deman...</description>
+            <title>Squircles</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1107</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1107</guid>
+            <description>In a recent development, A squircle is a shape intermediate between a square and a circle. There is no single mathematical definition, rather there are a number of curves that fit this shape. All general squircles are parametrized, and can vary between circle and square. Loading ...</description>
         </item>
         <item>
-            <title>Industry News: Google prepares swipe-to-switch photo editing and auto-save toggle for Snapseed</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-885</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-885</guid>
-            <description>Industry observers note that affiliate links on Android Authority may earn us a commission. Learn more. Google has been steadily breathing fresh life into Snapseed this year, following up major releases like the Snapseed 4.2 enhancement with frequent under-the-hood improvements. ...</description>
+            <title>Hosting for Thanksgiving? I’ve just found these 5 essential appliance deals ahead of Black Friday</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1106</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1106</guid>
+            <description>The festive season is upon us, and if you’re throwing a Thanksgiving party or a holiday gathering, you’ll want to host in style and impress your guests. I love hosting friends and family, and having the top kitchen essentials can make all the difference. Luckily, you don’t have t...</description>
         </item>
         <item>
-            <title>Runners, head to Amazon: The Garmin Forerunner 265 is at its best-ever price before Black Friday</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-884</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-884</guid>
-            <description>Sources indicate that SAVE $150: As of Nov. 16, the Garmin Forerunner 265 is on sale for $299.99 at Amazon. That's a 33% discount on the list price. Amazon's Black Friday sale officially gets underway later this week, and if the early deals are anything to go by, it's going to be...</description>
+            <title>Running coding agents without handing them my credentials</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1105</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1105</guid>
+            <description>I built lend to let remote agents use tools on my laptop with my approval. Here's how it fits into my workflow. I use agents heavily these days as part of my toolchain. I usually have a few going at once: Claude Code working in one repo, Codex reviewing a branch in another, and s...</description>
         </item>
         <item>
-            <title>Apple Watch Series 12 hits newly introduced record-low price ahead of Black Friday deal — save $70 at Amazon</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-883</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-883</guid>
-            <description>Recent findings suggest that SAVE $70: As of Nov. 16, the Apple Watch Series 12 (GPS, 42mm) has hit a new low price of $329 at Amazon ahead of Black Friday. That's $70 off its list price of $399. Industry observers note that amazon's dropping more early Black Friday deals ahead o...</description>
+            <title>Tech Report: HomeView missing some podcast feeds? Here’s why</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1104</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1104</guid>
+            <description>Apple’s new HomeView features the Podcasts app, but not all feeds appear to be supported for now. Instead, HomeView appears to have the same bug that tvOS 27 introduced to the Apple TV 4K’s Podcasts app. tvOS 27.0 added playback support for HLS-based video podcasts on Apple TV 4K...</description>
         </item>
         <item>
-            <title>Latest Update: One UI 9.5’s leaked Daily Brief could summarize your emails and notifications for you</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-882</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-882</guid>
-            <description>Recent findings suggest that affiliate links on Android Authority may earn us a commission. Learn more. Industry observers note that with One UI 9.5, Samsung is expected to deliver a substantial upgrade to AI capabilities on its Galaxy devices. We’ve recently discovered what coul...</description>
+            <title>Latest Update: Not a typo — RedPocket Mobile’s $5 a month plan is my favorite early Black Friday deal</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1103</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1103</guid>
+            <description>Recent findings suggest that I’ve spent the last year testing out different cell phone plans, and Verizon's $30/month option certainly stood out, especially considering how it matched the $30/month rate I’ve been enjoying with Visible. While Significant Red’s low-cost cell phone ...</description>
         </item>
         <item>
-            <title>Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-881</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-881</guid>
-            <description>WINUDF reads and writes UDF (versions 1.02 to 2.60), the file system of DVDs, Blu-ray
-discs, packet-written CDs and UDF-formatted USB sticks and disks: WINUDF.EXE gives DOS and
-Windows 1.0x–3.11 drive letters for them, WINUDF.VXD is a file system driver for Windows
-95 / 98 / ME w...</description>
+            <title>ChatGPT Health feature will soon work with Mac app, Dots, more</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1102</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1102</guid>
+            <description>OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more. With user permission, ChatGPT Health connects to Apple Health and supported medical records to...</description>
         </item>
         <item>
-            <title>Breaking: The Bose SoundLink Flex speaker is now under $100 ahead of Black Friday</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-880</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-880</guid>
-            <description>In a recent development, SAVE $50: As of Nov. 16, the Bose SoundLink Flex is on sale for $99 at Amazon. That's a 34% discount on the list price. Amazon's Black Friday sale doesn't officially start until later this week, but some of the early deals are already pretty impressive. I...</description>
+            <title>What to watch tonight: 29 upcoming highlights and movies just added to Netflix, Peacock and more — including a dark folk film with ‘Prometheus’ star (Nov. 16)</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1101</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1101</guid>
+            <description>When it comes to deciding what to watch, it can get overwhelming sifting through the best streaming services. So I've compiled a TV guide on what to watch tonight. According to recent reports, I've gone through everything from Netflix, HBO Max, Peacock etc to see what's recently ...</description>
+        </item>
+        <item>
+            <title>Tech Report: Apple has 15+ new products coming in 2027, per report</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1100</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1100</guid>
+            <description>Apple just wrapped up a very busy product launch season, but a latest report offers a sneak peek at the 15+ new products coming in 2027. Yesterday in his Power On newsletter, Mark Gurman offered an upgrade on the development of Apple Glasses, which he claims will debut at WWDC 20...</description>
+        </item>
+        <item>
+            <title>‘The only question is if it’s a soft recession or something more dramatic’: Gary Gensler warns the AI bubble is likely to burst and result in a recession before November 2028</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1099</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1099</guid>
+            <description>There seems to be a slew of warning signs pointing to the inevitability of the AI bubble bursting a lot sooner than most people think. Recent findings suggest that the controversial ousting of Nvidia CEO Jensen Huang (who happens to be recognized as the "high priest" of the globa...</description>
+        </item>
+        <item>
+            <title>Deals: Apple Watch Series 12 best price ever, AirPods Pro 3 now even lower, Apple’s iPhone Duo charger 25% off, more</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1098</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1098</guid>
+            <description>Recent findings suggest that alongside the ongoing discount on M5 MacBook Air at up to $250 off and AirTag 2 from just $17.50 each, Amazon has now updated its giant early Black Friday sale with an even lower price on  AirPods Pro 3  at $70 off and the lowest prices ever on the en...</description>
+        </item>
+        <item>
+            <title>Show HN: Sutra-OS – A self-hosted ontology platform</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1097</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1097</guid>
+            <description>Scarce Units, Typed, Related, Actionable. An open-source, self-hosted ontology platform. Your data becomes one model you own: typed, linked, changed only through
+  rules the server enforces, and every number traces back to its source. Quick start ·
+  How it works ·
+  Proposals ·
+...</description>
+        </item>
+        <item>
+            <title>Put down the martini and grab your wallet: 12 007 merch picks to celebrate the new James Bond</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1096</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1096</guid>
+            <description>And so there we have it: the next James Bond is officially Robert Pattinson. The British actor, who followed up an early role in Harry Potter with a career-making turn as Edward Cullen in Twilight, is on an absolutely incredible run. He's starred in brilliant arthouse indies like...</description>
+        </item>
+        <item>
+            <title>Breaking: Security Bite: The world’s biggest Apple security conference kicks off this week in Hawaii</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1095</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1095</guid>
+            <description>9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions ...</description>
+        </item>
+        <item>
+            <title>Columbia's early Black Friday sale is here: Shop 15 jacket and fleece deals up to 55% off</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1094</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1094</guid>
+            <description>Industry observers note that columbia's early Black Friday is live — which means now is the perfect time to shop the best deals to get you ready for colder weather. Whether you're hoping to grab a new jacket before temperatures plummet or you want to stock up on fleeces ideal for...</description>
+        </item>
+        <item>
+            <title>Technical concern at JPMorgan Chase triggers online banking delays for US banks</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1093</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1093</guid>
+            <description>Comments. → Read original article...</description>
+        </item>
+        <item>
+            <title>Industry News: Apple releases iOS 27.3 beta 2 for iPhone</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1092</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1092</guid>
+            <description>Apple has released the second iOS 27.3 developer beta for iPhone. The upcoming software patch includes the redesigned Health app, latest Safari features, expanded Siri AI capabilities, and more. The second beta follows the first developer release on November 3 and first public be...</description>
+        </item>
+        <item>
+            <title>Telegram Bots and Mini Apps on Localhost: setWebhook, the Secret-Token Header, and the Upcoming Origin Check</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1091</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1091</guid>
+            <description>Sources indicate that telegram can only deliver updates to a public HTTPS address, and localhost is not one. Since July 20, 2026, Mini Apps have a second constraint. Telegram now blocks Mini App methods when they are called from a different origin than the Mini App’s own domain. ...</description>
+        </item>
+        <item>
+            <title>Do Repeat Yourself</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-1090</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-1090</guid>
+            <description>Recent findings suggest that you are Lisa. You work at Megabank. Your team builds the account management part of the website - transaction lists with filters and queries, charts for account levels, and statement exports in .csv and .pdf. Youâve built a sleek backend in Go and a...</description>
         </item>
 </channel>
 </rss>
