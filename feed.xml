@@ -4,189 +4,223 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/artikelsemua54/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 15:13:12 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:53:14 -0000</lastBuildDate>
     
         <item>
-            <title>Vint Cerf on why TCP/IP was never patented</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2800</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2800</guid>
-            <description>EXTRA, extra! Today I’m launching Future Stories, my own podcast about technology, science and the way we live. The first guest is Vint Cerf. He co-designed TCP/IP with Bob Kahn in the 1970s, the rules that let the world’s networks talk to each other. Interviewing him was on my b...</description>
+            <title>The Benefits Of Cognitive Inclusion In UX Research</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3007</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3007</guid>
+            <description>Kate Kalcevich has over 20 years of experience turning accessibility into a driver of innovation and growth. As VP of Innovation at Fable, she oversees a …
+More about
+Kate ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. In a recent development, in the summer of 2024, ...</description>
         </item>
         <item>
-            <title>Latest Update: What Comes After AGI?</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2799</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2799</guid>
-            <description>According to recent reports, for decades, AI research has been focused on a monumental milestone: building artificial general intelligence, or AGI - machines that match humans across nearly all cognitive tasks. It was always clear that, in principle, intelligence could progress b...</description>
+            <title>The Impact Of Humanoid Robots On Humanity</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3006</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3006</guid>
+            <description>With over 20 years experience in the field of user centered design, and a background in web design and development, Carrie has worked in startups through to …
+More about
+Carrie ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. In a recent development, for decades, scien...</description>
         </item>
         <item>
-            <title>PostgreSQL 19</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2798</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2798</guid>
-            <description>PostgreSQL 19 contains many new features and enhancements, including:. Upcoming REPACK command that reclaims disk space and reorganizes table contents, which can improve query performance. REPACK (CONCURRENTLY) allows repacking without blocking reads and writes to the table. pg_p...</description>
+            <title>Designing With Uncertainty: How AI Supercharges Probabilistic Thinking</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3005</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3005</guid>
+            <description>Pratik Joglekar is a Senior Product Designer working with HubSpot. He loves to solve complex and challenging UX problems. When not working, he can be found at …
+More about
+Pratik ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. In 2024, an Air Canada customer asked a c...</description>
         </item>
         <item>
-            <title>Jujutsu Primer</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2797</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2797</guid>
-            <description>This guide is a brief(ish) introduction to the Jujutsu (jj) version control system (VCS) for someone familiar with Git. jj provides primitives for version control that are simple to learn, but elegantly compose into powerful workflows. Features like automatic rebase and native un...</description>
+            <title>Snapshots Of Summer (July 2026 Wallpapers Edition)</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3004</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3004</guid>
+            <description>In a recent development, cosima has been an editor at SmashingMag since 2013. Whenever she’s not writing articles for the weekly Smashing Newsletter, she’s probably working on a …
+More about
+Cosima ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. The scent of rain afte...</description>
         </item>
         <item>
-            <title>"I can tell you wrote this yourself"</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2796</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2796</guid>
-            <description>Those were some of the first words my honours project supervisor stated to me last week when we met to discuss a progress report I had written to mark the midway point of the project. It's a roughly 10-page report on the control of flapping-wing micro aerial vehicles - which is p...</description>
+            <title>Why Accessibility Is An Operational Capability, Not A Feature</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3003</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3003</guid>
+            <description>Mikhail Prosmitskiy is a Software Engineer who loves making complex things feel simple — and fast. He’s spent years building everything from crypto …
+More about
+Mikhail ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. This article has been kindly supported by our dear ...</description>
         </item>
         <item>
-            <title>The Strongest Sokoban Solver</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2795</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2795</guid>
-            <description>Industry observers note that soksolv solves more levels than any published Sokoban solver on both standard benchmark suites, including 24 world-first automated level solves. It's also faster on the levels that other solvers solve (~3.2x in total time). As is common for this era, ...</description>
+            <title>Matching AI Modality To User Intent: Designing The Right Interface</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3002</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3002</guid>
+            <description>Victor Yocco, PhD, is a UX Researcher with a focus on AI and the author of Designing Agentic AI Experiences (CRC Press, 2026), Design for the Mind (Manning, …
+More about
+Victor ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. The design community has entered a period o...</description>
         </item>
         <item>
-            <title>Breaking: Why the Airbus A321XLR often gets stuck climbing for first few hours of flight</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2794</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2794</guid>
-            <description>The Airbus A321XLR is revolutionizing transatlantic travel, but there is a painful catch to its revolutionary range. It must be trapped at low altitudes for the first few hours of a trip. Since an aircraft's most fuel-efficient altitude varies dynamically as it burns off fuel wei...</description>
+            <title>Users Don’t Need More Tools: They Need Seamless Integrations</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3001</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3001</guid>
+            <description>Sources indicate that vitaly Friedman loves beautiful content and doesn’t like to give in easily. When he is not writing, he’s most probably running front-end &amp; UX …
+More about
+Vitaly ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. We often hear about shiny new tools ...</description>
         </item>
         <item>
-            <title>Breaking: Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2793</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2793</guid>
+            <title>Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3000</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3000</guid>
+            <description>According to recent reports, zareen Tasnim is a member of the Kirki team and currently serves as Head of Content. She’s passionate about turning complex web-building concepts into clear, …
+More about
+Zareen ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. According to ...</description>
+        </item>
+        <item>
+            <title>Industry News: The Keurig K-Express is a huge 45% off — and you can make Starbucks, Cinnabon, and even McDonald’s coffee with it</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2999</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2999</guid>
+            <description>In a recent development, black Friday is officially here! Keurig's treating us this sales period — the Keurig K-Express is just $59, down from its MSRP of $109. This single-serve coffee maker is one of the best ways to get stress-free, mess-free coffee day after day. Forget measu...</description>
+        </item>
+        <item>
+            <title>The Saatva Micro-Coil Topper is the best I’ve tested for side sleepers with back pain and for softening hard beds — but stomach sleepers should give it a miss</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2998</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2998</guid>
+            <description>Despite having a one-inch layer of micro coils, the Saatva Micro-Coil Mattress Topper is far plusher than you’d think. I would describe the surface as medium-soft with just the right amount of sinkage for a comfortable night's sleep on your side and back. Special attention has be...</description>
+        </item>
+        <item>
+            <title>Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2997</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2997</guid>
+            <description>Kat Homan is a product (UX/UI) designer at DŌBRA Studio. She designs B2C mobile and web products, including four mental-health products and have prior …
+More about
+Kat ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Mental health applications keep facing a continuing,...</description>
+        </item>
+        <item>
+            <title>Running two PSP emulators on one Switch 2 and sharing one via GameShare</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2996</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2996</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>µ-Wire – USB on an ATtiny 10</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2792</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2792</guid>
+            <title>Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2995</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2995</guid>
+            <description>Chromebooks are distributed to students through a fence at a Los Angeles Unified School District high school for during the Covid quarantine. Sarah Reingewirtz/MediaNews Group/Pasadena Star-News/Getty. Hundreds of workers at Google are pushing senior leadership to retract a polic...</description>
+        </item>
+        <item>
+            <title>From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2994</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2994</guid>
+            <description>Anastasia Sycheva is the founder and art director of Feely Studio, a branding agency for technology startups. Since 2016, she has helped SaaS, fintech, …
+More about
+Anastasia ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Sources indicate that when a branding project...</description>
+        </item>
+        <item>
+            <title>Microsoft announces Windows Server 2028 with hardened security</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2993</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2993</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>If you stop writing code, you also get worse at reviewing it</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2791</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2791</guid>
-            <description>Whatever skill you’re learning, it won’t take long before someone with experience in that particular field tells you to get your hands dirty. It’s fine to read “Born to Run”, but you won’t be running an ultra marathon any time soon if you don’t start running. Whether it’s muscle ...</description>
+            <title>Tech Report: No, People Don’t Want More AI In Their Life</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2992</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2992</guid>
+            <description>It has been revealed that vitaly Friedman loves beautiful content and doesn’t like to give in easily. When he is not writing, he’s most probably running front-end &amp; UX …
+More about
+Vitaly ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Many companies silently assume t...</description>
         </item>
         <item>
-            <title>UK fridges secured from hackers</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2790</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2790</guid>
-            <description>Sweden was among countries to report a cyber incident in which some supermarket fridge units had been hiked up in temperature. A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, re...</description>
+            <title>Tech Report: Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2991</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2991</guid>
+            <description>Industry observers note that each topic starts with the idea and why it works, then worked examples, the usual mistakes and a summary in a nutshell. Exercises follow from easy to hard, with review rounds and a course exam. → Read original article...</description>
         </item>
         <item>
-            <title>Latest Update: FFmpeg 9.1 'Gauss'</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2789</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2789</guid>
-            <description>According to recent reports, FFmpeg only provides source code. Below are some links that provide it already compiled and ready to go. You can retrieve the source code through
-          Git
-          by using the command:. It has been revealed that FFmpeg has always been a very ex...</description>
+            <title>Breaking: When It Makes Sense To “Block” The Main Thread</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2990</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2990</guid>
+            <description>Industry observers note that I Code. I Write. Meme Rules. Ok, but seriously, I’m a web and mobile developer who writes a lot. In my spare time, I like to build products that would …
+More about
+Victor ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. According to recent ...</description>
         </item>
         <item>
-            <title>Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2788</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2788</guid>
-            <description>Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out. Anthropic’s shares slumped at the start of trading on Friday, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. Shares in the frontier AI or...</description>
+            <title>Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2989</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2989</guid>
+            <description>Recent findings suggest that durgesh Rajubhai Pawar is a freelance developer dedicated to building high-performance, accessible web applications. He specializes in orchestrating complex …
+More about
+Durgesh ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. React Server ...</description>
         </item>
         <item>
-            <title>Breaking: I can’t believe it’s 1!</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2787</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2787</guid>
-            <description>Recent findings suggest that at this year’s MathsJam Gathering, I gave a talk about the number 1. Here’s the recording:. The talk was a bit quick, due to having to fit in 5 minutes, so I thought I’d put a bit of writing here that you can stare at in your own time. Industry observ...</description>
+            <title>Thinking Outside The Box: Digital Design In The AI Era</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2988</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2988</guid>
+            <description>Sources indicate that oleksii Hrzhehorzhevskyi is a Senior Character Producer at MacPaw, specializing in character design, animation, and visual storytelling. He presently leads the …
+More about
+Oleksii ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. It has been revea...</description>
         </item>
         <item>
-            <title>Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2786</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2786</guid>
-            <description>In a recent development, in April, Ecohustler disrupted Carnival Cruise's AGM calling on the shareholders to reduce their manufacturer's pollution using straight forward and affordable methods - like burning cleaner fuel. Since then, a fresh report outlines the corporation's impa...</description>
+            <title>The Bull And Bear Case For Digital Design In The Age Of AI</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2987</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2987</guid>
+            <description>In a recent development, andy is a design founder turned startup investor and coach. He loves speaking at conferences like Smashing Conf and is a founding member of the Adobe Design …
+More about
+Andy ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Designers have spent...</description>
         </item>
         <item>
-            <title>GTA 6 inspires DoorDash, UberEats, Grubhub discount codes</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2785</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2785</guid>
-            <description>Recent findings suggest that grand Theft Auto VI (GTA 6) was finally released into the wild on Nov. 19, unveiling the beloved video game franchise's first title in 13 years. The highly anticipated game even inspired eager fans to take time off work in favor of immersing themselve...</description>
+            <title>Small Joys And Big Adventures (August 2026 Wallpapers Edition)</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2986</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2986</guid>
+            <description>Cosima has been an editor at SmashingMag since 2013. Whenever she’s not writing articles for the weekly Smashing Newsletter, she’s probably working on a …
+More about
+Cosima ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Everybody loves a beautiful wallpaper to freshe...</description>
         </item>
         <item>
-            <title>Wars final verdict explained by Dominic West and Sienna Miller</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2784</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2784</guid>
-            <description>Sources indicate that after a full season of cutthroat legal proceedings, War's central divorce trial between actor Carla Duval (Sienna Miller) and tech mogul Morgan Henderson (Dominic West) has reached its final verdict. The winner? No one. But the loser? Also no one. That's bec...</description>
+            <title>Breaking: I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2985</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2985</guid>
+            <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>This versatile Weber Q barbecue can grill, roast and bake — and it's now 15% off at Amazon</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2783</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2783</guid>
-            <description>Summer is almost upon us in Australia, and if your outdoor cooking setup is in need of an upgrade, I've spotted a timely Black Friday deal on one of Weber's most versatile compact barbecues. Right now, you can pick up the Weber Q2200N Premium gas barbecue for AU$466.65 in the Ama...</description>
+            <title>Breaking: How Baseline Can Help You Ship Less JavaScript</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2984</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2984</guid>
+            <description>Jad is an independent JavaScript &amp; Web Performance consultant and educator who has trained developers worldwide through online platforms, in-person …
+More about
+Jad ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. According to recent reports, most of us install a depen...</description>
         </item>
         <item>
-            <title>Wordle today: Answer, hints for November 20, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2782</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2782</guid>
-            <description>Today's Wordle answer should be easy to solve if you spring up. If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to a...</description>
+            <title>Industry News: Blackstone griddles are sizzling ahead of Black Friday: Save up to $100 at Amazon and Lowe's</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2983</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2983</guid>
+            <description>Recent findings suggest that I’m not heading out into my yard just yet to fire up my grill; I’m staying right inside. Even with the seasonal shift, though, now is one of the smartest times to grab a Blackstone Grill during the Black Friday sales. Industry observers note that if y...</description>
         </item>
         <item>
-            <title>Industry News: 'Yellowjackets' season 4 review: A strong start but too many unanswered questions risk a 'Lost'-style ending</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2781</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2781</guid>
-            <description>It has been revealed that for five years and three seasons, Paramount’s “Yellowjackets” has been at once enthralling and appalling audiences. As someone who is easily squeamish, I’ll admit that when I first tuned in years ago, I almost abandoned the show altogether, too disturbed...</description>
+            <title>Show HN: An API for word timestamps from speech, 75% within 20ms</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2982</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2982</guid>
+            <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>NYT Strands hints, answers for November 20, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2780</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2780</guid>
-            <description>Today's NYT Strands hints will be easy if you're always in a pickle. In a recent development, strands, the Upcoming York Times' elevated word-search game, requires the player to perform a twist on the classic word search. Words can be made from linked letters — up, down, left, ri...</description>
+            <title>Building Tactile UX: Honoring Intentional Design With Lottie</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2981</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2981</guid>
+            <description>With over 14 years of experience and deep expertise in API development, third-party tool integration, and scalable software solutions, Alexey specializes in …
+More about
+Alexey ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. According to recent reports, this article h...</description>
         </item>
         <item>
-            <title>Running iOS 27 on an older iPhone? These 3 non-AI upgrades actually improve how you use it every day</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2779</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2779</guid>
-            <description>Most of the conversation around iOS 27 was centered on Apple’s upgraded, AI-powered Siri, which brings deeper on-screen awareness and smarter multi-step actions. The catch is that Apple Intelligence requires an iPhone 15 Pro or newer, leaving anyone holding onto an older compatib...</description>
+            <title>Industry News: Apollo Dash review: A modestly priced scooter made for hills</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2980</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2980</guid>
+            <description>In a recent development, the Apollo Dash is an excellent midrange electric scooter with power to get you up hills and enough range to get you around town. It also has great lights and turn signals. However, its lack of a suspension made it less comfortable to ride than the less-p...</description>
         </item>
         <item>
-            <title>Latest Update: The G1 Garbage Collector</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2778</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2778</guid>
-            <description>The Garbage-First Garbage Collector (G1) is the default garbage collector on the JVM as of JDK 27, with JEP 523: Make G1 the Default Garbage Collector in All Environments, which made it the default in all environments. It had been the default garbage collector in "server" environ...</description>
+            <title>The Hungry Butler Effect: Concealed Commercial Incentives in LLMs</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2979</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2979</guid>
+            <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>NYT Connections hints today: Clues, answers for November 20, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2777</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2777</guid>
-            <description>The NYT Connections puzzle today is not too difficult if you're a pet owner. Industry observers note that connections is the one of the most popular Upcoming York Times word games that's captured the public's attention. The game is all about finding the "common threads between wo...</description>
-        </item>
-        <item>
-            <title>Is it too late to fertilize my lawn in November? Here’s what the experts say</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2776</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2776</guid>
-            <description>Sources indicate that as temperatures drop, our lawns often show signs of wear and tear from battling the elements. Whether dealing with patchy growth, damaged areas, or waterlogged soil, we still need to give our yards extra lawn care for the harsh winter months ahead. Perhaps o...</description>
-        </item>
-        <item>
-            <title>NYT Connections hints today: Meanings for each word for Nov. 20, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2775</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2775</guid>
-            <description>Industry observers note that looking for spoiler-free NYT Connections hints or just wondering why Connections is trending today? We've got what you need to understand the clues for today's puzzle without spoiling any of the answers. Of course, Mashable has also provided daily hin...</description>
-        </item>
-        <item>
-            <title>Show HN: Tinnitus frequency finder and audio notch tool</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2774</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2774</guid>
-            <description>A guided pitch match that takes about four minutes. You'll compare a few sounds with the one you hear, and get a frequency with an honest range. This tool needs JavaScript to play sounds. Everything runs in your browser. Nothing is recorded or sent anywhere. This is a pitch match...</description>
-        </item>
-        <item>
-            <title>Claude vs. ChatGPT: 5 key differences that could change which AI you use</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2773</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2773</guid>
-            <description>ChatGPT and Claude are two of the biggest names in AI, and both have become significantly more capable within the last few months. Whether you need help writing an email, researching a topic, creating an app or managing your workload, both chatbots can handle far more than simple...</description>
-        </item>
-        <item>
-            <title>Hurdle hints and answers for November 20, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2772</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2772</guid>
-            <description>If you like playing daily word games like Wordle, then Hurdle is a great game to add to your routine. Industry observers note that there are five rounds to the game. The first round sees you trying to guess the word, with correct, misplaced, and incorrect letters shown in each gu...</description>
-        </item>
-        <item>
-            <title>Tech Report: OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2771</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2771</guid>
-            <description>This fixes "Buffer overflow in EVP_EncodeBlock()" (CVE-2026-121481) by returning -1 for invalid inputs to EVP_EncodeBlock(): NULL input or output buffers, negative lengths, and lengths for which the encoded size does not fit in an int. The OpenSSL SRT has asked for it to be fixed...</description>
+            <title>Nvidia accounting under SEC investigation, sources say</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-2978</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-2978</guid>
+            <description>Sources indicate that nvidia's worst week on record just got worse. Now the government is asking questions about its books. Recent findings suggest that nvidia (NVDA) stock fell nearly 14% Friday, its worst day since the DeepSeek rout in January 2025 and its seventh straight loss...</description>
         </item>
 </channel>
 </rss>
