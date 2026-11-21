@@ -4,187 +4,207 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/artikelsemua54/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 06:39:51 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:58:22 -0000</lastBuildDate>
     
         <item>
-            <title>iPhone Duo is getting three new features in iOS 27.3</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3077</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3077</guid>
-            <description>iOS 27.3 launches next month and includes several exciting changes for iPhone Duo, here’s what’s newly introduced for Apple’s foldable model. Apple is granting iPhone Duo people one of their biggest feature requests: face unlock is coming with iOS 27.3. Face unlock isn’t a full-f...</description>
-        </item>
-        <item>
-            <title>I just saw the next generation of LEGO F1 sets, but what I learned about the future of the collection from its product chief is even more exciting</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3076</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3076</guid>
-            <description>In a recent development, imagine building a LEGO Formula 1 car that actually sounds like one when you send it racing across your desk. Or lining up two LEGO Speed Champions cars that can interact with each other as they race. As both a consumer technology journalist with an affin...</description>
-        </item>
-        <item>
-            <title>9to5Mac Daily: November 18, 2026 – More on iOS 27.3, iPhone Duo</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3075</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3075</guid>
-            <description>Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. It has been revealed that sponsored by Backblaze: ...</description>
-        </item>
-        <item>
-            <title>Tech Report: Weekend watch party: 5 best new movies to stream this weekend on Netflix, Prime Video, Paramount+, and more (November 21-22)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3074</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3074</guid>
-            <description>Fall is in full swing now, and the best streaming services are making it easy to spend these chilly evenings inside on the couch catching up on our watchlists. A ton of new movies got added this week, including several of this year's biggest blockbusters, and I'm here to shout ou...</description>
-        </item>
-        <item>
-            <title>Deals: All MacBook Neo models now on sale from $649, AirTag 2 $17.50 each, Apple Watch $199, Alpine Loop, more</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3073</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3073</guid>
-            <description>It has been revealed that amazon’s launch discount on the upcoming Apple TV 4K has returned alongside the even lower price on AirPods Pro 3 at $70 off, and the lowest price ever across just about every Apple Series 12 configuration – you can also score Apple Watch SE 3 down at $1...</description>
-        </item>
-        <item>
-            <title>一次由高危漏洞引发的 Nginx 1.30.7 跨发行版安全升级实战</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3072</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3072</guid>
-            <description>2026 年以来，F5 / NGINX 官方接连披露了多起影响 NGINX Open Source 与 NGINX Plus 的高危及中危安全漏洞。最近在例行安全扫描中，一台运行 nginx/1.28.0 的应用节点一口气被扫出了 13 个漏洞（6 高危 + 7 中危）。. 本文从漏洞背景、风险评估讲起，重点记录一次跨越 Ubuntu 24.04（实验环境） 与 Rocky Linux 9.6（生产环境） 的 nginx/1.30.7 升级实战、踩坑排查过程与回滚预案。. 在 2026 年披露的这一批 Nginx CVE 中，有几个代表性漏洞影响面极广：...</description>
-        </item>
-        <item>
-            <title>I Don't Trust Visual Recordings Anymore. But One Day I Will Again</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3071</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3071</guid>
-            <description>We will have to label our content to prove its authenticity. Hany Farid is a computer science professor at Dartmouth College, in Hanover, N.H. → Read original article...</description>
-        </item>
-        <item>
-            <title>iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3070</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3070</guid>
-            <description>According to recent reports, earlier this week, Apple revealed that Siri AI usage limits will be implemented in iOS 27.3 and explained how iCloud+ increases those limits. Now we have a real-world example of what it looks like when limits are hit, and details on what counts toward...</description>
-        </item>
-        <item>
-            <title>ChatGPT just got a massive upgrade — it can now create documents that enhancement themselves</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3069</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3069</guid>
-            <description>If you've ever struggled to keep a project organized or stay on top of a seemingly endless stream of emails, this could be one of the most useful ChatGPT upgrades yet. Think of ChatGPT Space as a digital workspace that combines some of the best features of Google Workspace, Micro...</description>
-        </item>
-        <item>
-            <title>Introducing ONCSS: A Lightweight CSS-in-JS Library for Modern JavaScript Applications</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3068</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3068</guid>
-            <description>I've been working on ONCSS, a CSS-in-JS library designed to make styling modern web applications simple, flexible, and developer-friendly. Instead of writing separate CSS files for every component, ONCSS lets you define styles directly in JavaScript using a familiar object-based ...</description>
-        </item>
-        <item>
-            <title>Slopstrap – Make your site look hastily vibecoded</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3067</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3067</guid>
-            <description>Sources indicate that open Saturday 8:00 AM – 4:00 PM. Emergency shut-off calls answered 24 hours a day. → Read original article...</description>
-        </item>
-        <item>
-            <title>Apple Creator Studio adds MotionVFX for Final Cut Pro, latest Pixelmator Pro features, more</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3066</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3066</guid>
-            <description>Last month Apple confirmed major updates coming to Apple Creator Studio in November, and those updates have just arrived, headlined by the addition of MotionVFX in Final Cut Pro and a lot more. When Apple unveiled its new MacBook Pro with PROLED XDR last month, it highlighted sev...</description>
-        </item>
-        <item>
-            <title>React useReducer – Interview Questions &amp; Answers</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3065</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3065</guid>
-            <description>Q1. What is useReducer in React? state – current state value. dispatch – function used to send an action. reducer – function that decides how state changes. initialState – initial value of the state. Industry observers note that Q2. What is a reducer function? A reducer is a func...</description>
-        </item>
-        <item>
-            <title>I’ve spent months testing the iPhone 17, Galaxy S26, and Pixel 11 — here’s the sub-$1,000 phone worth buying</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3064</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3064</guid>
-            <description>Industry observers note that flagship phones are the prized devices that pair bleeding-edge hardware with unmatched performance across the board. While the iPhone 18 Pro Max, Galaxy S26 Ultra, and Pixel 11 Pro XL lead the way as some of the best phones you can buy, you don't alwa...</description>
-        </item>
-        <item>
-            <title>Read the Trace, Not the Leaderboard</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3063</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3063</guid>
-            <description>According to recent reports, your agent ran for six hours, made 247 tool calls, and then failed. You have two options. Option A: swap to a newer model and hope it fails less. Option B: read the trace, find the tool call that went sideways at step 183, and fix the harness so it ne...</description>
-        </item>
-        <item>
-            <title>Breaking: Fewer slides, more dragons</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3062</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3062</guid>
-            <description>Here’s a familiar sight that could send a typical tech manager into hours of procrastination and avoidant behavior:. It has been revealed that it starts with a simple ask for a meeting or a presentation. No matter how pretty the template is, as soon as you decide you need “some s...</description>
-        </item>
-        <item>
-            <title>ChatGPT app gains enhanced Live Dictation streaming without 10-minute limit</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3061</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3061</guid>
-            <description>Industry observers note that chatGPT dictation is getting a boost today. OpenAI has updated the speech-to-text feature with Live Dictation that improves both speed and reliability. The enhanced dictation revision also removes the 10-minute limit. “Dictation in ChatGPT is getting ...</description>
-        </item>
-        <item>
-            <title>Breaking: Wordle today: Answer, hints for November 21, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3060</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3060</guid>
-            <description>Today's Wordle answer should be easy to solve if you're a cardiologist. According to recent reports, if you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for ...</description>
-        </item>
-        <item>
-            <title>The week in movies quiz — 10 questions on ‘Hunger Games,’ Robert Pattinson’s James Bond, Grand Theft Auto and more (Nov. 16-22)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3059</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3059</guid>
-            <description>In a recent development, in the movie world, a lot can happen in a week. New films are released (in theaters and on streaming), the latest trailers go viral, anniversaries are celebrated, and some weeks, major news is confirmed, like Robert Pattinson being confirmed as the next J...</description>
-        </item>
-        <item>
-            <title>Latest Update: PHP's November 2026 Security Release: How to Check, Patch and Restart (and What's Fresh in PHP 8.6)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3058</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3058</guid>
-            <description>It has been revealed that on November 19, 2026, PHP shipped PHP 8.6.0 and, on the same afternoon, security releases for every supported branch: 8.5.13, 8.4.28, 8.3.37 and 8.2.36. The security releases fix 17 vulnerabilities, seven rated critical. PHP states the critical ones need...</description>
-        </item>
-        <item>
-            <title>NYT Strands hints, answers for November 21, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3057</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3057</guid>
-            <description>Today's NYT Strands hints will be easy if you have a good eye. Recent findings suggest that strands, the New York Times' elevated word-search game, requires the player to perform a twist on the classic word search. Words can be made from linked letters — up, down, left, right, or...</description>
-        </item>
-        <item>
-            <title>Apple releases HomeView 27.2.1 patch, here’s what’s newly introduced</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3056</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3056</guid>
-            <description>It has been revealed that apple has just released its first post-launch software update for the HomeView, version 27.2.1 which includes several bug fixes. Here’s how to install it. Last week the Apple HomeView arrived in users’ homes and immediately required a software upgrade to...</description>
-        </item>
-        <item>
-            <title>Latest Update: Serious cyberattack thought backed by wealthy operators</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3055</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3055</guid>
+            <title>Surprisingly Adorable Insect Portraits</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3256</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3256</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>Breaking: uBlock Origin patches one-click universal XSS flaw</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3054</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3054</guid>
-            <description>It has been revealed that A malicious website could make uBlock Origin inject arbitrary JavaScript into any other site, triggered by a single click anywhere on the attacker's page. The bug was in the element picker, the tool you summon by right-clicking a page to build a filter t...</description>
+            <title>Show HN: Zero C#, Power of C# without any GC</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3255</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3255</guid>
+            <description>A fork of bflat compiles C# straight to a small native program: no .NET runtime, no garbage collector, nothing to install where it runs. Industry observers note that you keep C#'s syntax, type checking and generics. Memory comes from arenas you free all at once, and a small libra...</description>
         </item>
         <item>
-            <title>Industry News: NYT Connections hints today: Clues, answers for November 21, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3053</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3053</guid>
-            <description>The NYT Connections puzzle today is not too difficult if you have a sweet tooth. Connections is the one of the most popular Latest York Times word games that's captured the public's attention. The game is all about finding the "common threads between words." And just like Wordle,...</description>
+            <title>Tech Report: Astra 6.2 and Sol 6.2 flop at Simple Bench</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3254</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3254</guid>
+            <description>Where Everyday Human Reasoning Still Surpasses Frontier
+                            Models → Read original article...</description>
         </item>
         <item>
-            <title>Newly introduced leaks detail next year’s iPhone Pro redesign and iPhone Duo 2</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3052</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3052</guid>
-            <description>Next year’s fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here’s what to expect per the latest leaks. Rumors for next year’s flagship upcoming iPhone models are ramping up. Earlier today, we got a release timing upgrade on i...</description>
-        </item>
-        <item>
-            <title>I'm feeling stronger than ever thanks to adding this to my routine instead of push-ups</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3051</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3051</guid>
-            <description>Without a doubt, I'm getting a chorus of groans when I mention this upper-body exercise during team workouts. It mimics an overhead press using just your bodyweight, meaning my clients can't use the excuse of needing weights to get out of doing it. It has been revealed that I lov...</description>
-        </item>
-        <item>
-            <title>Fixing PyInstaller --onefile tmpfs Problems by Switching to --onedir and Clarifying Size Myths</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3050</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3050</guid>
-            <description>When you pass --onefile to PyInstaller, the build tool does not strip dead code, prune unused shared libraries, or shrink your Python interpreter. Instead, the bootloader appends a compressed archive (typically using zlib or LZMA) containing the exact same set of .pyc bytecode fi...</description>
-        </item>
-        <item>
-            <title>Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3049</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3049</guid>
+            <title>Industry News: LLMs can read and write executables byte by byte from a hex dump</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3253</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3253</guid>
             <description>Comments. → Read original article...</description>
         </item>
         <item>
-            <title>NYT Connections hints today: Meanings for each word for Nov. 21, 2026</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3048</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3048</guid>
-            <description>Looking for spoiler-free NYT Connections hints or just wondering why Connections is trending today? We've got what you need to understand the clues for today's puzzle without spoiling any of the answers. Of course, Mashable has also provided daily hints and answers for Connection...</description>
+            <title>How to stop weeds growing in your gravel: Experts reveal the foolproof method to halt the pesky growth</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3252</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3252</guid>
+            <description>There is something charming about the crunch of gravel underfoot, and whether you are aiming for a relaxed rustic country look or strong architectural lines in a contemporary yard, gravel has a place in both. I’m a huge fan of gravel and the small stones in my front and backyard ...</description>
+        </item>
+        <item>
+            <title>Breaking: Show HN: An ASCII cell aquarium for your terminal</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3251</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3251</guid>
+            <description>A living microscope slide in your terminal. Immune cells chase bacteria, cells
+divide, and bacteriophages occasionally cause trouble. It has been revealed that inspired by cbonsai and
+asciiquarium. This is a biological
+illustration with exaggerated sizes and timing. Recent findin...</description>
+        </item>
+        <item>
+            <title>Latest Update: I gave up my screenless Fitbit Air for the Fitbit Edge — 7 things I love (and hate)</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3250</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3250</guid>
+            <description>So you’re trying to pick between the $99 Fitbit Air and the $179 Fitbit Edge. Both have a lot in common — they share the same heart rate sensor, charger, and Google Health app ecosystem. But there are also a lot of differences between the two upcoming trackers. I’ve been wearing ...</description>
+        </item>
+        <item>
+            <title>I’ve watched every Hunger Games movie — and the best one isn't what you think</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3249</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3249</guid>
+            <description>We’ve come a long way since Katniss Everdeen volunteered as tribute in “The Hunger Games.” It’s been almost 15 years since Jennifer Lawrence delivered that line and became an iconic action heroine. “The Hunger Games” brought the young adult genre to upcoming heights and proved th...</description>
+        </item>
+        <item>
+            <title>I spent all night playing GTA 6 — and these 3 PS5 settings made it look and sound incredible</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3248</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3248</guid>
+            <description>According to recent reports, GTA 6 is finally here! It’s easily Rockstar Games’ most ambitious title ever, featuring dense environments and lush soundscapes. You get a rich visual and audio experience out of the box, but tweaking a few PS5 settings can enhance it. Recent findings...</description>
+        </item>
+        <item>
+            <title>Breaking: How I made a custom game engine for Satelital</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3247</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3247</guid>
+            <description>Seven years ago I decided to start learning how to make a game from scratch. And last week I released Satelital, a rule-discovery game about learning alien logic. According to recent reports, as a solo developer, I decided to start this project from scratch. My motivation was to ...</description>
+        </item>
+        <item>
+            <title>Breaking: We tested the Oura Ring 5 vs Apple Watch vs Garmin Index Sleep Monitor for 6 months — here's the best Black Friday buy</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3246</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3246</guid>
+            <description>The Oura Ring 5 boasts accurate sleep tracking, a unique body clock feature to streamline your sleep schedule, and a customizable lightweight fit that won't interfere with sleep comfort. However, to access these sleep benefits, a subscription of $5.99/£5.99 a month is essential. ...</description>
+        </item>
+        <item>
+            <title>Deterministic Simulation Testing Is for Everyone</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3245</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3245</guid>
+            <description>Deterministic Simulation Testing is often seen as a technique just for
+  distributed systems. I argue that it's a testing technique for everyone and
+  all applications. Why do we use automated testing when building software? We test because we want to find issues internally and n...</description>
+        </item>
+        <item>
+            <title>Amazon’s all-in-one cheap soundbar has a built-in subwoofer for under $250 — there's just one thing holding it back</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3244</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3244</guid>
+            <description>The Amazon Fire TV Soundbar Plus is an admirable entry-level soundbar. Although it won’t beat any of the big names unlike its cheaper sibling, the TV Soundbar, it provides an instant TV speaker upgrade without breaking the bank. Built-in subwoofer with adjustable bass volume. Bas...</description>
+        </item>
+        <item>
+            <title>The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3243</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3243</guid>
+            <description>Industry observers note that elektronika BK-0010 ran on a processor copied from a minicomputer, not a microcomputer. Where the West built home computers around 8-bit chips designed for the job, the Soviet Union’s only officially sanctioned home computer used the K1801VM1, a 16-bi...</description>
+        </item>
+        <item>
+            <title>Breaking: My 60-year-old client asked for the best exercises to improve her balance, and this is the routine I gave her</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3242</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3242</guid>
+            <description>As a certified personal trainer, I work with a wide range of clients who have lots of different fitness goals. But for my clients in their 60s and beyond, there’s usually one objective that drives their training: improving balance and stability. In a recent development, I recentl...</description>
+        </item>
+        <item>
+            <title>Denzel Washington and Colin Farrell face off in this Oscar-nominated legal thriller — and you can stream it for free</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3241</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3241</guid>
+            <description>According to recent reports, verdict: If I were just judging Denzel Washington's performance, I'd probably give "Roman J. Israel, Esq." five out of five stars. Unfortunately, I have to grade the movie as a whole. Outside of Denzel's Oscar-nominated portrayal of the titular attorn...</description>
+        </item>
+        <item>
+            <title>Industry News: Black Friday Nintendo Switch deals LIVE: savings on consoles, games, and must-have accessories</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3240</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3240</guid>
+            <description>Staff picked deals:1. Quick Links2. Editor's Choice3. Latest Updates. Sources indicate that the official Nintendo Switch deals have already started appearing online, with discounts on dozens of games and accessories now available. I'm here to help vet the very best Switch Black F...</description>
+        </item>
+        <item>
+            <title>Breaking: I'm quite pleased by the tech architecture of my art website</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3239</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3239</guid>
+            <description>It is a truth universally acknowledged, that every developer blog begins by explaining the latest static site generator they wrote to make it. This post isnât exactly that, but maybe only on a technicality, in that itâs not about this websiteâ¦. Recent findings suggest that ...</description>
+        </item>
+        <item>
+            <title>I tested the Xiaomi 18 Pro Max's weird rear screen — and it's actually useful</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3238</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3238</guid>
+            <description>I have many gripes with modern smartphones, but one of the things that really grinds my gears is the trend of Godzilla-sized camera bumps on the backs of phones, Apple's doing it, Samsung' seems to be planning on it, and a lot of Chinese brands look like they've been hit by a rog...</description>
+        </item>
+        <item>
+            <title>RCE in Gnupg</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3237</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3237</guid>
+            <description>Industry observers note that messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+
+
+
+
+Hello! We are pleased to announce the availability of a new GPGME release:
+version 2.3.1. This version fixes a *critical security bug* found in
+all prior versions. We also release a ne...</description>
+        </item>
+        <item>
+            <title>Tech Report: Amazon Black Friday sale LIVE: 49+ best deals I’d buy right now on Garmin, Kindle, Ninja, Oura Ring, Roku and more</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3236</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3236</guid>
+            <description>Staff picked deals:1. Top Amazon Deals2. Editor's Choice Picks3. Latest updates. Recent findings suggest that amazon's Black Friday deals are live! Even though Black Friday doesn't officially start until November 27, Amazon's sale has already kicked off. Now is a great time to ge...</description>
+        </item>
+        <item>
+            <title>Saatva Cloud Memory Foam Pillow review: Heavenly comfort for hot sleepers</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3235</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3235</guid>
+            <description>The Saatva Cloud Memory Foam Pillow is one of the most comfortable pillows I’ve tested for Tom's Guide, and more than lives up to its luxury $135 price tag. A shredded memory foam and latex fill hugs your head while supporting your neck no matter the position you sleep in. The sh...</description>
+        </item>
+        <item>
+            <title>Verification files for the Lean proof of the Riemann Hypothesis</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3234</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3234</guid>
+            <description>Announced at alpo.ge/remark.pdf on 20 November 2026. It has been revealed that andrew Sutherland (MIT), checks run with Claude Code. Page last updated 2026-11-21 12:55 UTC. Results below are as of that time and this page will be updated as the remaining checks finish. The publish...</description>
+        </item>
+        <item>
+            <title>Struggling to find your next great read? These 7 ChatGPT prompts will change how you discover your next favorite book</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3233</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3233</guid>
+            <description>There’s such a gratifying feeling that comes from finishing a really good book, closing it up, reflecting on its quality and placing it back on your bookshelf. In a recent development, I spend a good deal of time flipping through autobiographies written by my favorite wrestlers, ...</description>
+        </item>
+        <item>
+            <title>My monitor was cutting my download speed by 75%</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3232</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3232</guid>
+            <description>Somehow I am one of those few very lucky people to have the opportunity of owning a 2.5 gig symmetrical line for my internet. But one day, when I wanted to brag to my equally nerdy friends, shock and horror: 600 Mbps down? Luckily my upload speed was still 2.4 Gbps, so I didn’t l...</description>
+        </item>
+        <item>
+            <title>Tech Report: PostgreSQL Extensions in Go</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3231</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3231</guid>
+            <description>The tutorial walks through it step by step. gopgext uses the same approach as gokm,
+which builds Linux kernel modules from Go: a custom TinyGo target and runtime
+layer for the host, a C runtime compiled by the host’s own build system
+(PGXS here, kbuild there), and generated glue....</description>
+        </item>
+        <item>
+            <title>Tech Report: The Sony PlayStation Pulse costs just $99 but delivers life-like and detailed sound that punches way above its weight — and it’s a must-have for PS5 players</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3230</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3230</guid>
+            <description>Suave looks, premium build, comfortable plush ear cushions, and drool-worthy sound — these make the Sony PlayStation Pulse Wireless Headset one of the best PS5 headsets around. Fitted with custom planar drivers designed in collaboration with Audeze, the Pulse delivers life-like s...</description>
+        </item>
+        <item>
+            <title>Brazil's tax authority open-sources its tax calculator on GitHub under MIT</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3229</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3229</guid>
+            <description>Comments. → Read original article...</description>
+        </item>
+        <item>
+            <title>I found the 27 best entertainment gifts of 2026 for movie buffs and streaming bingers</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3228</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3228</guid>
+            <description>It has been revealed that christmas is almost upon us, and if you're on the hunt for something to gift to the TV or movie fan in your life, then you've come to the right place. For this article, I've pulled together 27 great gift ideas across a range of products. There's everythi...</description>
+        </item>
+        <item>
+            <title>How to nail your lawn’s final cut — without inviting winter moss and frost damage</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3227</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3227</guid>
+            <description>That last cut before winter is the trickiest mow of the year, and most lawn damage blamed on harsh winter weather actually starts with a badly timed final pass. Leave your grass too long and damp fall air turns it into a breeding ground for moss and snow mold, scalp it too short ...</description>
         </item>
 </channel>
 </rss>
