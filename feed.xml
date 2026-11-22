@@ -4,207 +4,201 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/artikelsemua54/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 18:58:22 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:08:22 -0000</lastBuildDate>
     
         <item>
-            <title>Surprisingly Adorable Insect Portraits</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3256</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3256</guid>
-            <description>Comments. → Read original article...</description>
+            <title>Exponential Behavior in Magic: The Gathering</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3352</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3352</guid>
+            <description>Sources indicate that in perhaps the first instance where Magic: The Gathering caused a legitimate supercomputer to time out, exponential behavior strikes again as the bane of every computer scientistâs existence, prompting reflection: What is it about Magic: The Gathering that...</description>
         </item>
         <item>
-            <title>Show HN: Zero C#, Power of C# without any GC</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3255</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3255</guid>
-            <description>A fork of bflat compiles C# straight to a small native program: no .NET runtime, no garbage collector, nothing to install where it runs. Industry observers note that you keep C#'s syntax, type checking and generics. Memory comes from arenas you free all at once, and a small libra...</description>
+            <title>Unit-testing in the Ü programming language</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3351</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3351</guid>
+            <description>Now Ü has built-in unit-testing functionality. Writing a unit-test is as simple as this:. halt is used for handling test failures, but it’s recommended to use some macro (like assert) which is able to print into stderr, what exactly went wrong. Running such tests is possible via ...</description>
         </item>
         <item>
-            <title>Tech Report: Astra 6.2 and Sol 6.2 flop at Simple Bench</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3254</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3254</guid>
-            <description>Where Everyday Human Reasoning Still Surpasses Frontier
-                            Models → Read original article...</description>
+            <title>Latest Update: Show HN: Compile the same source for GPUs and CPUs</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3350</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3350</guid>
+            <description>It has been revealed that xc is a heterogeneous data-parallel language. Write an ordinary loop, in xc or
+in C, and xcc runs it across every CPU core, on the GPU through Metal, CUDA,
+Vulkan or WebGPU, across several GPUs from different vendors at once, or on a GPU
+on another machi...</description>
         </item>
         <item>
-            <title>Industry News: LLMs can read and write executables byte by byte from a hex dump</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3253</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3253</guid>
-            <description>Comments. → Read original article...</description>
+            <title>Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3349</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3349</guid>
+            <description>AI is moving from answering questions to owning work. Join a small team in San Francisco building AI employees that companies can trust with real responsibilities, around the clock. All positions are full-time and in-person in our San Francisco office. Define and build how people...</description>
         </item>
         <item>
-            <title>How to stop weeds growing in your gravel: Experts reveal the foolproof method to halt the pesky growth</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3252</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3252</guid>
-            <description>There is something charming about the crunch of gravel underfoot, and whether you are aiming for a relaxed rustic country look or strong architectural lines in a contemporary yard, gravel has a place in both. I’m a huge fan of gravel and the small stones in my front and backyard ...</description>
+            <title>Advice for the next 100 Rust GUIs</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3348</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3348</guid>
+            <description>In a recent development, this is a followup to Advice for the next dozen Rust GUIs, published 4.5 years ago. The world is different in many ways, but some of the advice there is still valid. There have been roughly 20 Rust GUI toolkits announced since that blog post (see 2026 sur...</description>
         </item>
         <item>
-            <title>Breaking: Show HN: An ASCII cell aquarium for your terminal</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3251</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3251</guid>
-            <description>A living microscope slide in your terminal. Immune cells chase bacteria, cells
-divide, and bacteriophages occasionally cause trouble. It has been revealed that inspired by cbonsai and
-asciiquarium. This is a biological
-illustration with exaggerated sizes and timing. Recent findin...</description>
+            <title>Why there are still no non-WebKit browsers on iOS</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3347</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3347</guid>
+            <description>Firefox on iPhone is growing fast across the world. This is especially true in the EU since 2024, when the EU Digital Markets Act (DMA) started requiring Apple to let people choose their default browser; millions have picked Firefox, and daily use on iOS has doubled. People want ...</description>
         </item>
         <item>
-            <title>Latest Update: I gave up my screenless Fitbit Air for the Fitbit Edge — 7 things I love (and hate)</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3250</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3250</guid>
-            <description>So you’re trying to pick between the $99 Fitbit Air and the $179 Fitbit Edge. Both have a lot in common — they share the same heart rate sensor, charger, and Google Health app ecosystem. But there are also a lot of differences between the two upcoming trackers. I’ve been wearing ...</description>
+            <title>Reaktiv Workbook – A spreadsheet where every cell is Python</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3346</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3346</guid>
+            <description>Change a parameter and every value, plot and paragraph that depends on it updates. Nothing else reruns, nothing goes stale. Notes, a grid of cells and a dependency graph over one
+        plain .workbook.py file. uvx reaktiv-workbook latest --from welcome or pip install reaktiv-wo...</description>
         </item>
         <item>
-            <title>I’ve watched every Hunger Games movie — and the best one isn't what you think</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3249</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3249</guid>
-            <description>We’ve come a long way since Katniss Everdeen volunteered as tribute in “The Hunger Games.” It’s been almost 15 years since Jennifer Lawrence delivered that line and became an iconic action heroine. “The Hunger Games” brought the young adult genre to upcoming heights and proved th...</description>
+            <title>Shaping the Loops, Closing the Loops</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3345</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3345</guid>
+            <description>I began to notice a pattern of patterns in today’s age, which has had me thinking ever since. As the volume of agent work explodes, engineering leverage will concentrate in two areas. One is already getting attention, the other is less clearly named. ⟣ Verification engineering ⟢ ...</description>
         </item>
         <item>
-            <title>I spent all night playing GTA 6 — and these 3 PS5 settings made it look and sound incredible</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3248</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3248</guid>
-            <description>According to recent reports, GTA 6 is finally here! It’s easily Rockstar Games’ most ambitious title ever, featuring dense environments and lush soundscapes. You get a rich visual and audio experience out of the box, but tweaking a few PS5 settings can enhance it. Recent findings...</description>
+            <title>Pandex – Official European Law for AI Agents, over MCP</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3344</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3344</guid>
+            <description>Legislation and highest-court decisions of the EU and seven European countries, straight from the institutions that publish them, ready for search and AI agents. Works with the AI tools you already use. One API and one MCP server for every jurisdiction we hold. Cour de cassation,...</description>
         </item>
         <item>
-            <title>Breaking: How I made a custom game engine for Satelital</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3247</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3247</guid>
-            <description>Seven years ago I decided to start learning how to make a game from scratch. And last week I released Satelital, a rule-discovery game about learning alien logic. According to recent reports, as a solo developer, I decided to start this project from scratch. My motivation was to ...</description>
+            <title>Split Radiance Cascades</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3343</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3343</guid>
+            <description>In a recent development, radiance cascades is a technique that massively improves global illumination without much extra
+                        cost or
+                        accumulation. In this article I'll go over the recent technique of Ray Splitting which allows
+         ...</description>
         </item>
         <item>
-            <title>Breaking: We tested the Oura Ring 5 vs Apple Watch vs Garmin Index Sleep Monitor for 6 months — here's the best Black Friday buy</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3246</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3246</guid>
-            <description>The Oura Ring 5 boasts accurate sleep tracking, a unique body clock feature to streamline your sleep schedule, and a customizable lightweight fit that won't interfere with sleep comfort. However, to access these sleep benefits, a subscription of $5.99/£5.99 a month is essential. ...</description>
+            <title>Together.ai: Prompt Leakage for Requests</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3342</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3342</guid>
+            <description>We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026. An unauthorized party downloaded stored prompt samples after a credential for a private repository was exposed in a pu...</description>
         </item>
         <item>
-            <title>Deterministic Simulation Testing Is for Everyone</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3245</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3245</guid>
-            <description>Deterministic Simulation Testing is often seen as a technique just for
-  distributed systems. I argue that it's a testing technique for everyone and
-  all applications. Why do we use automated testing when building software? We test because we want to find issues internally and n...</description>
+            <title>Upload2Shell (CVE-2026-125396)</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3341</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3341</guid>
+            <description>Ghostscript 10.05.1~dfsg-1+deb13u1. → Read original article...</description>
         </item>
         <item>
-            <title>Amazon’s all-in-one cheap soundbar has a built-in subwoofer for under $250 — there's just one thing holding it back</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3244</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3244</guid>
-            <description>The Amazon Fire TV Soundbar Plus is an admirable entry-level soundbar. Although it won’t beat any of the big names unlike its cheaper sibling, the TV Soundbar, it provides an instant TV speaker upgrade without breaking the bank. Built-in subwoofer with adjustable bass volume. Bas...</description>
+            <title>The Mythology of Conscious AI</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3340</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3340</guid>
+            <description>Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea. Anil Seth won the 2025 annual Berggruen Prize Essay Competition for his English-language essay, “The Mythology Of Conscious AI.”. A neu...</description>
         </item>
         <item>
-            <title>The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3243</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3243</guid>
-            <description>Industry observers note that elektronika BK-0010 ran on a processor copied from a minicomputer, not a microcomputer. Where the West built home computers around 8-bit chips designed for the job, the Soviet Union’s only officially sanctioned home computer used the K1801VM1, a 16-bi...</description>
+            <title>Why Apple Vision Pro never took off like Meta's VR headsets</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3339</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3339</guid>
+            <description>Good hardware doesn't necessarily make for a successful product. When Apple released the Vision Pro headset in early 2024, it was the most ambitious device the tech colossus had released in recent memory. To find another device that so fundamentally wanted to change how we use te...</description>
         </item>
         <item>
-            <title>Breaking: My 60-year-old client asked for the best exercises to improve her balance, and this is the routine I gave her</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3242</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3242</guid>
-            <description>As a certified personal trainer, I work with a wide range of clients who have lots of different fitness goals. But for my clients in their 60s and beyond, there’s usually one objective that drives their training: improving balance and stability. In a recent development, I recentl...</description>
+            <title>Black Friday deals are now live at Amazon: Save up to 53% on MacBooks, Kindles, Sony headphones, and more</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3338</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3338</guid>
+            <description>It's time to start thinking about holiday shopping, because Amazon's Black Friday deals are live. This year, Amazon is starting the show a week before we carve the turkey, and we're not mad. Shopping early means we get to have gifts on the doorstep well before company arrives. Sh...</description>
         </item>
         <item>
-            <title>Denzel Washington and Colin Farrell face off in this Oscar-nominated legal thriller — and you can stream it for free</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3241</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3241</guid>
-            <description>According to recent reports, verdict: If I were just judging Denzel Washington's performance, I'd probably give "Roman J. Israel, Esq." five out of five stars. Unfortunately, I have to grade the movie as a whole. Outside of Denzel's Oscar-nominated portrayal of the titular attorn...</description>
+            <title>Industry News: Leonida – PC Recompilation of the Xbox Version of GTA 6</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3337</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3337</guid>
+            <description>Status |
+  How to build |
+  How it works |
+  Want to help? |
+  Credits |
+  License |
+  Discord. Leonida is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the game's code is loaded
+and run natively, and the console's system software is reimplemented. T...</description>
         </item>
         <item>
-            <title>Industry News: Black Friday Nintendo Switch deals LIVE: savings on consoles, games, and must-have accessories</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3240</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3240</guid>
-            <description>Staff picked deals:1. Quick Links2. Editor's Choice3. Latest Updates. Sources indicate that the official Nintendo Switch deals have already started appearing online, with discounts on dozens of games and accessories now available. I'm here to help vet the very best Switch Black F...</description>
+            <title>Breaking: Discs vs. disks: What's the difference?</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3336</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3336</guid>
+            <description>There are more things that set them apart than spelling. In a recent development, one of the key parts of understanding technology and its many eccentricities comes from understanding the actual language being used and discerning the unique, subtle differences a letter can make i...</description>
         </item>
         <item>
-            <title>Breaking: I'm quite pleased by the tech architecture of my art website</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3239</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3239</guid>
-            <description>It is a truth universally acknowledged, that every developer blog begins by explaining the latest static site generator they wrote to make it. This post isnât exactly that, but maybe only on a technicality, in that itâs not about this websiteâ¦. Recent findings suggest that ...</description>
+            <title>All 22 Formula 1 drivers are officially becoming Lego minifigures — where to preorder</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3335</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3335</guid>
+            <description>Sources indicate that TL;DR: Lego and F1 have revealed a 2027 Lego Speed Champions Formula 1 collection featuring brick-built replicas of all 11 team cars and all 22 F1 drivers recreated as minifigures. Check out the full range. The Las Vegas Grand Prix is always a special experi...</description>
         </item>
         <item>
-            <title>I tested the Xiaomi 18 Pro Max's weird rear screen — and it's actually useful</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3238</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3238</guid>
-            <description>I have many gripes with modern smartphones, but one of the things that really grinds my gears is the trend of Godzilla-sized camera bumps on the backs of phones, Apple's doing it, Samsung' seems to be planning on it, and a lot of Chinese brands look like they've been hit by a rog...</description>
+            <title>Breaking: The trade-offs of using Apple's AirPods Max headphones</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3334</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3334</guid>
+            <description>Apple's AirPods Max sound great, but they come with a lot of compromises for $549 headphones. It has been revealed that there's a lot to love about the AirPods Max, Apple's premium headphones that recently got a nice revision with improved ANC and the H2 chip. For iPhone users, t...</description>
         </item>
         <item>
-            <title>RCE in Gnupg</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3237</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3237</guid>
-            <description>Industry observers note that messages sorted by:
-[ date ]
-[ thread ]
-[ subject ]
-[ author ]
-
-
-
-
-Hello! We are pleased to announce the availability of a new GPGME release:
-version 2.3.1. This version fixes a *critical security bug* found in
-all prior versions. We also release a ne...</description>
+            <title>PS5 and PS5 Pro Black Friday deals 2026: What to realistically expect</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3333</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3333</guid>
+            <description>TL;DR: Standalone PS5 Slim and PS5 Pro discounts look unlikely for Black Friday 2026. Expect Sony's real savings to center on game-bundled consoles, DualSense controllers, and PlayStation Store deals. In a recent development, if you are holding out for Black Friday on Nov. 27 to ...</description>
         </item>
         <item>
-            <title>Tech Report: Amazon Black Friday sale LIVE: 49+ best deals I’d buy right now on Garmin, Kindle, Ninja, Oura Ring, Roku and more</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3236</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3236</guid>
-            <description>Staff picked deals:1. Top Amazon Deals2. Editor's Choice Picks3. Latest updates. Recent findings suggest that amazon's Black Friday deals are live! Even though Black Friday doesn't officially start until November 27, Amazon's sale has already kicked off. Now is a great time to ge...</description>
+            <title>Building a Rootless Linux Sandbox in Pure Rust — Without Docker or a Daemon</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3332</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3332</guid>
+            <description>If you ever need to run untrusted scripts, test builds, or execute AI-generated code on Linux, the usual options are either spinning up a full Docker container or trusting the process on your host. I wanted something lighter: a single binary and embeddable Rust library that isola...</description>
         </item>
         <item>
-            <title>Saatva Cloud Memory Foam Pillow review: Heavenly comfort for hot sleepers</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3235</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3235</guid>
-            <description>The Saatva Cloud Memory Foam Pillow is one of the most comfortable pillows I’ve tested for Tom's Guide, and more than lives up to its luxury $135 price tag. A shredded memory foam and latex fill hugs your head while supporting your neck no matter the position you sleep in. The sh...</description>
+            <title>What's new with Apple's latest Siri Remote, and does your old Apple TV support it?</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3331</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3331</guid>
+            <description>Recent findings suggest that the 4th-gen Apple TV 4K comes with a upcoming remote. Here's what you need to know about it. Sources indicate that earlier this October, Apple unveiled its latest Apple TV 4K streaming box. Like most product debuts in recent months, the release center...</description>
         </item>
         <item>
-            <title>Verification files for the Lean proof of the Riemann Hypothesis</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3234</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3234</guid>
-            <description>Announced at alpo.ge/remark.pdf on 20 November 2026. It has been revealed that andrew Sutherland (MIT), checks run with Claude Code. Page last updated 2026-11-21 12:55 UTC. Results below are as of that time and this page will be updated as the remaining checks finish. The publish...</description>
+            <title>DeepSeek Flash 與 V4 Pro：該把請求路由到哪個模型？</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3330</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3330</guid>
+            <description>DeepSeek 現在在同一個 OpenAI 相容介面中提供兩個實用的價格級距。deepseek-flash 面向高併發、大批量的工作負載。deepseek-v4-pro 價格較高，應該用在便宜路線無法勝任的任務上，才配得上這份溢價。. 試用 Tokuse： 建立免費帳戶 並透過一個 OpenAI 相容端點送出你的第一個請求。. DeepSeek 公開定價頁面（2026 年 11 月 9 日查閱）列出以下每百萬 token 的離峰價格：. Tokuse 路由這些模型。表格顯示的是 DeepSeek 官方標價；Tokuse 的分組定價可能有所不同。請查看 ...</description>
         </item>
         <item>
-            <title>Struggling to find your next great read? These 7 ChatGPT prompts will change how you discover your next favorite book</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3233</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3233</guid>
-            <description>There’s such a gratifying feeling that comes from finishing a really good book, closing it up, reflecting on its quality and placing it back on your bookshelf. In a recent development, I spend a good deal of time flipping through autobiographies written by my favorite wrestlers, ...</description>
+            <title>SmartWings Black Friday sale: Save up to 15% on custom motorized shades</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3329</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3329</guid>
+            <description>According to recent reports, smartWings’ Black Friday and Cyber Monday sale starts November 15, 2026, with 10% off sitewide or 15% off orders over $1,500. The featured custom motorized shades on sale are available in a variety of styles, including roller, cellular, and linen Roma...</description>
         </item>
         <item>
-            <title>My monitor was cutting my download speed by 75%</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3232</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3232</guid>
-            <description>Somehow I am one of those few very lucky people to have the opportunity of owning a 2.5 gig symmetrical line for my internet. But one day, when I wanted to brag to my equally nerdy friends, shock and horror: 600 Mbps down? Luckily my upload speed was still 2.4 Gbps, so I didn’t l...</description>
+            <title>Loved ‘Obsession’ on Netflix? Watch these 3 nightmare-fuel horror movies next</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3328</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3328</guid>
+            <description>It has been revealed that one of the biggest horror movies of the year, "Obsession," finally landed on Netflix this week, where Inde Navarrette's unhinged performance will no doubt haunt even more people's nightmares. If you’re still reeling from its tense atmosphere and wonder w...</description>
         </item>
         <item>
-            <title>Tech Report: PostgreSQL Extensions in Go</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3231</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3231</guid>
-            <description>The tutorial walks through it step by step. gopgext uses the same approach as gokm,
-which builds Linux kernel modules from Go: a custom TinyGo target and runtime
-layer for the host, a C runtime compiled by the host’s own build system
-(PGXS here, kbuild there), and generated glue....</description>
+            <title>What Is an IP Address? Explained Simply</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3327</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3327</guid>
+            <description>Originally published on CodingCush. According to recent reports, an IP address is a number that identifies a device on a network, like a house number identifies a house on a street. Every phone, laptop and website server has one, and without it, data would have no idea where to g...</description>
         </item>
         <item>
-            <title>Tech Report: The Sony PlayStation Pulse costs just $99 but delivers life-like and detailed sound that punches way above its weight — and it’s a must-have for PS5 players</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3230</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3230</guid>
-            <description>Suave looks, premium build, comfortable plush ear cushions, and drool-worthy sound — these make the Sony PlayStation Pulse Wireless Headset one of the best PS5 headsets around. Fitted with custom planar drivers designed in collaboration with Audeze, the Pulse delivers life-like s...</description>
+            <title>How to easily factory reset your Fitbit</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3326</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3326</guid>
+            <description>It can help fix a serious problem or prep your wearable for a upcoming owner. If your Fitbit is acting up, you'll want to restart it, but this is a very different process from a factory reset. You may want to restart your Fitbit if it won't sync with the Google Health app or isn'...</description>
         </item>
         <item>
-            <title>Brazil's tax authority open-sources its tax calculator on GitHub under MIT</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3229</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3229</guid>
-            <description>Comments. → Read original article...</description>
+            <title>The Most Popular Car Colors in America</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3325</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3325</guid>
+            <description>It has been revealed that white was the most popular car color 30 years ago and it maintains that ranking today. When combined with the prominence of black (23.4%) and gray (22.9%), the top three most popular colors hold 72% of market share for modern car colors. It’s worth notin...</description>
         </item>
         <item>
-            <title>I found the 27 best entertainment gifts of 2026 for movie buffs and streaming bingers</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3228</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3228</guid>
-            <description>It has been revealed that christmas is almost upon us, and if you're on the hunt for something to gift to the TV or movie fan in your life, then you've come to the right place. For this article, I've pulled together 27 great gift ideas across a range of products. There's everythi...</description>
+            <title>Tech Report: The anonymous hacker Cyberleek releases an Xbox build of GTA VI</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3324</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3324</guid>
+            <description>We've been covering the hacker or hackers known as Cyberleek for months now, as they've attempted to profit from releasing footage of Grand Theft Auto VI well in advance of the official launch date. In that time, Cyberleek dropped a manifesto (the "CYBERLEEK Edict") championing c...</description>
         </item>
         <item>
-            <title>How to nail your lawn’s final cut — without inviting winter moss and frost damage</title>
-            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3227</link>
-            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3227</guid>
-            <description>That last cut before winter is the trickiest mow of the year, and most lawn damage blamed on harsh winter weather actually starts with a badly timed final pass. Leave your grass too long and damp fall air turns it into a breeding ground for moss and snow mold, scalp it too short ...</description>
+            <title>Siri Modular Apple Watch face gains two upcoming styles with watchOS 27.3</title>
+            <link>https://railfansday.github.io/artikelsemua54/index.html#artikel-3323</link>
+            <guid>https://railfansday.github.io/artikelsemua54/index.html#artikel-3323</guid>
+            <description>According to recent reports, siri Modular, the new Apple Watch face in watchOS 27, is gaining new style options. watchOS 27.3, presently in beta, adds two more style options to the existing set. This gives users five options for adjusting what type of information appears on Siri ...</description>
         </item>
 </channel>
 </rss>
